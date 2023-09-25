@@ -21,6 +21,111 @@
     "text": "QA activities\n\nPeer review,\nCode review,\nEthics discussions,\nPair programming,\nInternal workshops to discuss an approach,\nMaintain a 4:1 ratio – 80% working on projects and 20% assisting with QA on other projects."
   },
   {
+    "objectID": "where.html",
+    "href": "where.html",
+    "title": "Where to find/store things",
+    "section": "",
+    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
+  },
+  {
+    "objectID": "where.html#sharepoint-and-onedrive",
+    "href": "where.html#sharepoint-and-onedrive",
+    "title": "Where to find/store things",
+    "section": "",
+    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
+  },
+  {
+    "objectID": "style/documentation.html",
+    "href": "style/documentation.html",
+    "title": "Documentation style",
+    "section": "",
+    "text": "Your project should contain both:\n\nproject documentation: as a minimum a README.txt,\ncode documentation: including inline comments, function, class and module docstrings,\n\nThe documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.\nIt is helpful to think of documentation as falling into one of four modes:\n\ntutorials: learning-oriented lessons that take the reader by the hand through a series of steps to complete a project of some kind,\nhow-to guides: goal-oriented directions that take the reader through the steps required to solve a real-world problem,\nreference guides: information-oriented technical descriptions of the machinery and how to operate it,\nexplanation: understanding-oriented discussion that clarifies and illuminates a particular topic.\n\nThe is a great breakdown of these four areas on the Diátaxis website."
+  },
+  {
+    "objectID": "style/code.html",
+    "href": "style/code.html",
+    "title": "Code style",
+    "section": "",
+    "text": "Follow the Duck Book guidance on:\nThis contains recommendations on (amongst other things) naming conventions, style and formatting."
+  },
+  {
+    "objectID": "style/code.html#reproducible-analysis-pipelines",
+    "href": "style/code.html#reproducible-analysis-pipelines",
+    "title": "Code style",
+    "section": "Reproducible analysis pipelines",
+    "text": "Reproducible analysis pipelines\nYou should structure your project so that:\n\nraw data is read-only,\nall your outputs are disposable,\n(if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.\n\n\n\n\n\n\n\nTip\n\n\n\nIn some situations it can be difficult to produce an easily reproducible pipeline. For example when using HPC, code often needs to be run across different systems and different environments. This is fine – just ensure there is enough documentation so that it is technically possible for someone to reproduce your work."
+  },
+  {
+    "objectID": "thanks.html",
+    "href": "thanks.html",
+    "title": "Acknowledgements",
+    "section": "",
+    "text": "We thank all those that have contributed to this handbook:\n\nJames Thomas\nRichard Lane\n\nWe are also grateful to the Our Handbook project and the Duck Book for inspiration."
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "TODO",
+    "section": "",
+    "text": "Methods of engagement - internal, external, how projects work\nFinish QA description\nOther JGI activities, such as Data Week, Ask-JGI, Data Ethics Club, Data Hazards, …"
+  },
+  {
+    "objectID": "tools/version-control.html",
+    "href": "tools/version-control.html",
+    "title": "Version control",
+    "section": "",
+    "text": "Can you use cloud services?\n\n\n\nCheck whether you can use cloud services like GitHub and GitLab before you upload any code.\nThis includes whether the repo needs to be private (at least to begin with) and what the license terms need to be."
+  },
+  {
+    "objectID": "tools/version-control.html#git",
+    "href": "tools/version-control.html#git",
+    "title": "Version control",
+    "section": "Git",
+    "text": "Git\nUse Git to version control to track and manage changes to code.\n\n\n\n\n\n\nTip\n\n\n\nFor collaborative data science work, we recommend committing frequently and following the principles of trunk-based development."
+  },
+  {
+    "objectID": "tools/version-control.html#github",
+    "href": "tools/version-control.html#github",
+    "title": "Version control",
+    "section": "GitHub",
+    "text": "GitHub\nThe JGI has an GitHub organisation that you can use to create collaborative repositories.\nYou can get access from one of the other data scientists in the team. Whilst at the University you can also access additional education benefits on GitHub.\n\n\n\n\n\n\nOrganisation or personal repo?\n\n\n\nUsing an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change the data scientist working on the project.\nFor smaller projects or Ask-JGI work, a repo under your personal profile is fine."
+  },
+  {
+    "objectID": "tools/version-control.html#data",
+    "href": "tools/version-control.html#data",
+    "title": "Version control",
+    "section": "Data",
+    "text": "Data\nYou can also version control data but this is more unusual (raw or source data is generally considered read-only).\nOne data version control tool is DVC."
+  },
+  {
+    "objectID": "tools/scientific-libraries.html",
+    "href": "tools/scientific-libraries.html",
+    "title": "Scientific libraries and tools",
+    "section": "",
+    "text": "The following libraries and tools are recommended:"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#python",
+    "href": "tools/scientific-libraries.html#python",
+    "title": "Scientific libraries and tools",
+    "section": "Python",
+    "text": "Python\n\nData analysis: numpy, pandas\nLarger-than-memory data: dask, polars\nAccelerating Python loops: numba\nSpecialist analysis: scipy\nStatistical modelling: statsmodels\nMachine learning: scikit-learn, keras, tensorflow, tensorboard, pytorch, yellowbrick\nNatural language processing: nltk, spacy\nGeospatial data: geopandas, shapely, rasterio, rioxarray, cartopy\nVisualisation: matplotlib, seaborn, altair, plotly, folium, geoplot\nDashboards: streamlit\nProbabilistic programming: pymc\nStorage of tabular data: Apache Parquet (via pyarrow and fastparquet), HDF5 (via hdf5 and h5py)\nWeb scraping: scrapy, beautifulsoup4, parsel, lxml\nWeb development: flask, django\nUI improvements: rich, tqdm\nNotebooks: jupyterlab (and nbdime for Git integration)\nTesting: pytest\nDocumentation: sphinx, mkdocs"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#r",
+    "href": "tools/scientific-libraries.html#r",
+    "title": "Scientific libraries and tools",
+    "section": "R",
+    "text": "R\n\nData analysis: tidyverse (including dplyr, tidyr), data.table, sf\nVisualisation: ggplot2\nStatistical modelling: glm (built-in), brms\nDashboards: shiny\nDatabase connections: odbc, dbplyr\nTesting: testthat\nDocumentation: pkgdown\nEnvironment management: renv"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#other-tools",
+    "href": "tools/scientific-libraries.html#other-tools",
+    "title": "Scientific libraries and tools",
+    "section": "Other tools",
+    "text": "Other tools\n\nMarkdown documents and websites: quarto, juypterbook\nOnline analytical processing using SQL: duckdb (with duckdb and jupysql for Python integration)\nCommand line json processing: jq\nMakefile-like pipelines: just"
+  },
+  {
     "objectID": "tools/visualisation-and-communication.html",
     "href": "tools/visualisation-and-communication.html",
     "title": "Data visualisation and communication",
@@ -63,32 +168,67 @@
     "text": "Can you release your code as open source?\n\n\n\nThe University is in the process of producing an Open Source Code policy. Once it is published, this page will be updated.\n\n\nMake all new source code open and reusable, and publish it under appropriate licences. Or if this is not possible, provide a convincing explanation of why this cannot be done for specific subsets of the source code.\n\nCode that could be open\nYou might be able to release the following:\n\nAnalysis scripts,\nSource code for compiled programs,\nConfiguration data for running or managing the program,\nDatabase schema,\nCode to compile, test or package the software,\nDocumentation to instruct others how to install, test and use the software.\n\n\n\nCode that should not be open\nYou must not release code that:\n\nContains personal or protected data (these should be stored separately),\nRelates to sensitive research that has not been published yet or could compromise the proper publication of research results,\nRelates to intellectual property that needs protecting (for example industrial collaborations or where there are plans to commercialise the research),\nCould compromise the security or integrity of research infrastructure (such as login details, descriptions security or anti-fraud systems, or unpublished policy).\n\n\n\nReferences\n\n(In preparation) Open Source Code policy, University of Bristol\nWhen code should be open or closed, GOV.UK\nBe open and use open source, GOV.UK\nChoosing an open-source licence, Software Sustainability Institute"
   },
   {
-    "objectID": "tools/version-control.html",
-    "href": "tools/version-control.html",
-    "title": "Version control",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the JGI Data Science Handbook",
     "section": "",
-    "text": "Can you use cloud services?\n\n\n\nCheck whether you can use cloud services like GitHub and GitLab before you upload any code.\nThis includes whether the repo needs to be private (at least to begin with) and what the license terms need to be."
+    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
   },
   {
-    "objectID": "tools/version-control.html#git",
-    "href": "tools/version-control.html#git",
-    "title": "Version control",
-    "section": "Git",
-    "text": "Git\nUse Git to version control to track and manage changes to code.\n\n\n\n\n\n\nTip\n\n\n\nFor collaborative data science work, we recommend committing frequently and following the principles of trunk-based development."
+    "objectID": "index.html#purpose-of-the-handbook",
+    "href": "index.html#purpose-of-the-handbook",
+    "title": "Welcome to the JGI Data Science Handbook",
+    "section": "",
+    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
   },
   {
-    "objectID": "tools/version-control.html#github",
-    "href": "tools/version-control.html#github",
-    "title": "Version control",
-    "section": "GitHub",
-    "text": "GitHub\nThe JGI has an GitHub organisation that you can use to create collaborative repositories.\nYou can get access from one of the other data scientists in the team. Whilst at the University you can also access additional education benefits on GitHub.\n\n\n\n\n\n\nOrganisation or personal repo?\n\n\n\nUsing an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change the data scientist working on the project.\nFor smaller projects or Ask-JGI work, a repo under your personal profile is fine."
+    "objectID": "index.html#further-reading",
+    "href": "index.html#further-reading",
+    "title": "Welcome to the JGI Data Science Handbook",
+    "section": "Further reading",
+    "text": "Further reading\nOne guide we like is the Government Analysis Function guidance on “Quality assurance of code for analysis and research” produced by the ONS, also known as the Duck Book.\nThe are also many templates for data science projects. One such template is the govcookiecutter and its associated blog post. Whilst we don’t specify a particular template, they all provide good inspiration."
   },
   {
-    "objectID": "tools/version-control.html#data",
-    "href": "tools/version-control.html#data",
-    "title": "Version control",
-    "section": "Data",
-    "text": "Data\nYou can also version control data but this is more unusual (raw or source data is generally considered read-only).\nOne data version control tool is DVC."
+    "objectID": "tools/other.html",
+    "href": "tools/other.html",
+    "title": "Other tools",
+    "section": "",
+    "text": "Command history searching improvements: fzf, history scrolling\nFile searching: ripgrep\nFile viewing: bat\nCommand help: tldr"
+  },
+  {
+    "objectID": "tools/other.html#command-line-enhancements",
+    "href": "tools/other.html#command-line-enhancements",
+    "title": "Other tools",
+    "section": "",
+    "text": "Command history searching improvements: fzf, history scrolling\nFile searching: ripgrep\nFile viewing: bat\nCommand help: tldr"
+  },
+  {
+    "objectID": "tools/other.html#online-tools",
+    "href": "tools/other.html#online-tools",
+    "title": "Other tools",
+    "section": "Online tools",
+    "text": "Online tools\n\nDiagramming: draw.io, Mermaid\nWhiteboards: Excalidraw, tldraw"
+  },
+  {
+    "objectID": "tools/managing-environments.html",
+    "href": "tools/managing-environments.html",
+    "title": "Managing environments",
+    "section": "",
+    "text": "We recommend keeping track of the exact versions of the software libraries you are using.\nGenerally this is done by creating a reproducible environment (also called a virtual environment).\nSome tools also allow you to use different versions of Python or R for different environments."
+  },
+  {
+    "objectID": "tools/managing-environments.html#python",
+    "href": "tools/managing-environments.html#python",
+    "title": "Managing environments",
+    "section": "Python",
+    "text": "Python\nYou can use pip with venv (or a related tool) or conda (or a related tool) to create an environment and install specific versions of Python libraries.\nWe recommend using mamba (or micromamba) to install Python and create environments. This package manager is compatible with conda and can manage data science environments, including Python and other software. Anywhere you see conda, you can generally substitute it for mamba or micromamba.\nYou should export your environment into an environment.yml (or similar) file and track that using version control. This way, a collaborators can install the same software as you by running conda env create -f environment.yml.\nEven if you don’t want to use conda to install software, you can use it to install specific version of Python and then use pip to install Python libraries. This keeps everything in one place, and you don’t need to switch to using python -m venv.\n\n\n\n\n\n\nTips\n\n\n\n\nNever use a system-wide version of Python (such as on a Mac or Linux machine) as this will be a version used by the operating system. Always install your own version.\nNever install packages globally on your system. This could create conflicts with system libraries or other projects. Always create an environment.\nIf you do use pip, be aware that unlike conda it only checks for conflicts when you install all the libraries you are using at the same time. This is why it’s faster. For this reason, it’s a good idea to install additional libraries by editing your requirements.txt file and then reinstalling everything from a freshly-created (empty) environment each time."
+  },
+  {
+    "objectID": "tools/managing-environments.html#r",
+    "href": "tools/managing-environments.html#r",
+    "title": "Managing environments",
+    "section": "R",
+    "text": "R\nWe recommend creating reproducible environments using renv. See this talk by Kevin Ushey for an introduction.\nrenv uses renv::install() and renv::update() to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with renv will automatically mask).\nRStudio gives you the option of using renv when you create a new project.\n\n\n\n\n\n\nTip\n\n\n\nAlthough it is common practice, we recommend you avoid installing and updating packages globally using install.packages() and update.packages(), unless you are using renv.\nIf you use the global versions of packages, then all your projects will need to use the same versions of every library. If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses."
   },
   {
     "objectID": "tools/computing-resources.html",
@@ -140,25 +280,46 @@
     "text": "Footnotes\n\n\nThere is an unofficial OneDrive client for Linux that works under WSL. This can be used to selectively sync a WSL directory to OneDrive, for backup purposes.↩︎"
   },
   {
-    "objectID": "tools/other.html",
-    "href": "tools/other.html",
-    "title": "Other tools",
+    "objectID": "tools/web-development.html",
+    "href": "tools/web-development.html",
+    "title": "Web development",
     "section": "",
-    "text": "Command history searching improvements: fzf, history scrolling\nFile searching: ripgrep\nFile viewing: bat\nCommand help: tldr"
+    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
   },
   {
-    "objectID": "tools/other.html#command-line-enhancements",
-    "href": "tools/other.html#command-line-enhancements",
-    "title": "Other tools",
+    "objectID": "tools/web-development.html#static-websites",
+    "href": "tools/web-development.html#static-websites",
+    "title": "Web development",
     "section": "",
-    "text": "Command history searching improvements: fzf, history scrolling\nFile searching: ripgrep\nFile viewing: bat\nCommand help: tldr"
+    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
   },
   {
-    "objectID": "tools/other.html#online-tools",
-    "href": "tools/other.html#online-tools",
-    "title": "Other tools",
-    "section": "Online tools",
-    "text": "Online tools\n\nDiagramming: draw.io, Mermaid\nWhiteboards: Excalidraw, tldraw"
+    "objectID": "tools/web-development.html#interactive-websites",
+    "href": "tools/web-development.html#interactive-websites",
+    "title": "Web development",
+    "section": "Interactive websites",
+    "text": "Interactive websites\n\nFlask: a Python library for rapidly creating websites. Useful for data ingress/egress pages, for example when working with Internet of Things (IoT) devices.\nDjango: a more substantial batteries-included Python framework for developing entire websites.\n\n\n\n\n\n\n\nTips\n\n\n\n\nIf you’re creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it. It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through data protection impact assessment (DPIA) and penetration testing steps before your site can be used outside the University.\nFor more substantial websites, it is worth approaching Research IT at the project costing stage. They develop websites and apps professionally and use similar tools."
+  },
+  {
+    "objectID": "tools/programming-languages.html",
+    "href": "tools/programming-languages.html",
+    "title": "Programming languages",
+    "section": "",
+    "text": "Which programming language should you use for a project?\n\n\n\nIf you’re starting a new project, it may be obvious which language is most suitable. For example, a researcher may already be comfortable with a particular one. Otherwise, it largely comes down to personal choice.\nWe recommend either Python or R, although it’s worth becoming at least competent in several languages."
+  },
+  {
+    "objectID": "tools/programming-languages.html#interpreted-languages",
+    "href": "tools/programming-languages.html#interpreted-languages",
+    "title": "Programming languages",
+    "section": "Interpreted languages",
+    "text": "Interpreted languages\n\nPython and R are two of the most widely used programming language for data science. They are easy to write, understand and have a large and well-established ecosystem for data science. We have found the use of R more common in statistics and Python more common in machine learning (and general purpose programming).\nMATLAB is also widely used in engineering, mathematics and the physical sciences. It is commercial software, so you need a license to use it (which the University has), although this may impact how easy it will be for others to re-use the code.\nSQL is used for processing data in relational databases. Used well, these databases can produce highly-optimised queries that can handle many records. They are particularly suited for handling data accessible via the web, with users simultaneously reading and writing records."
+  },
+  {
+    "objectID": "tools/programming-languages.html#compiled-languages",
+    "href": "tools/programming-languages.html#compiled-languages",
+    "title": "Programming languages",
+    "section": "Compiled languages",
+    "text": "Compiled languages\nSpecialised projects might have you writing code in a compiled language like C, C++ or Fortran. This is usually if you need to interact closely with the operating system or hardware or if execution time is more important than developer time.\nCommon languages include:\n\nRust: a fast and efficient language, aimed at producing reliable and safe code. It can be used to write low-level extensions for Python.\nFortran: often used for computationally intensive scientific computing. It supports arrays, matrices and complex numbers by default. It is simple and efficient and underpins libraries like SciPy. However because of its longevity, code you come across is often dated.\nC: a fast, portable and simple language. It is often used to write low-level extensions for Python. However, it can be error-prone. You might use it if you’re working on embedded systems like Arduino.\nC++: an extension of C that includes classes, templates and exceptions that you might be used to from higher-level languages. It can be very complicated and is often used for desktop applications, games and large-scale projects."
   },
   {
     "objectID": "core-principles.html",
@@ -203,41 +364,6 @@
     "text": "Get others to cross-check\nOther people can provide a different perspective and can perform difference types of check.\nFor example:\n\nwhen coding, this might be undertaking code review or pair programming,\nat the start of a project, this could be a team meeting to discuss ethical or governance issues, or the overall approach you are taking.\n\nDon’t wait until the end of a project to do this! Again, keep a record of these steps."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "",
-    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
-  },
-  {
-    "objectID": "index.html#purpose-of-the-handbook",
-    "href": "index.html#purpose-of-the-handbook",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "",
-    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
-  },
-  {
-    "objectID": "index.html#further-reading",
-    "href": "index.html#further-reading",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "Further reading",
-    "text": "Further reading\nOne guide we like is the Government Analysis Function guidance on “Quality assurance of code for analysis and research” produced by the ONS, also known as the Duck Book.\nThe are also many templates for data science projects. One such template is the govcookiecutter and its associated blog post. Whilst we don’t specify a particular template, they all provide good inspiration."
-  },
-  {
-    "objectID": "style/code.html",
-    "href": "style/code.html",
-    "title": "Code style",
-    "section": "",
-    "text": "Follow the Duck Book guidance on:\nThis contains recommendations on (amongst other things) naming conventions, style and formatting."
-  },
-  {
-    "objectID": "style/code.html#reproducible-analysis-pipelines",
-    "href": "style/code.html#reproducible-analysis-pipelines",
-    "title": "Code style",
-    "section": "Reproducible analysis pipelines",
-    "text": "Reproducible analysis pipelines\nYou should structure your project so that:\n\nraw data is read-only,\nall your outputs are disposable,\n(if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.\n\n\n\n\n\n\n\nTip\n\n\n\nIn some situations it can be difficult to produce an easily reproducible pipeline. For example when using HPC, code often needs to be run across different systems and different environments. This is fine – just ensure there is enough documentation so that it is technically possible for someone to reproduce your work."
-  },
-  {
     "objectID": "style/visual.html",
     "href": "style/visual.html",
     "title": "Visual style",
@@ -245,18 +371,11 @@
     "text": "The University brand guidelines contain information on:\n\nthe use of the University logo,\nthe University colour scheme,\nthe University fonts and typography.\n\nWe also have JGI-specific resources:\n\nWord and PowerPoint templates for letter, short reports, long reports and presentations. These can be found in the JGI SharePoint. Click the New menu and then choose a template from the list.\nQuarto template for HTML and Word documents produced from Markdown and code. This can be found in the JGI GitHub. It can be used by running quarto use template jgibristol/quarto-uob-jgi.\n\n\n\n\n\n\n\nTip\n\n\n\nWhen writing documents in Word, use the provided styles to avoid having to format everything manually."
   },
   {
-    "objectID": "where.html",
-    "href": "where.html",
-    "title": "Where to find/store things",
+    "objectID": "style/writing.html",
+    "href": "style/writing.html",
+    "title": "Writing style",
     "section": "",
-    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
-  },
-  {
-    "objectID": "where.html#sharepoint-and-onedrive",
-    "href": "where.html#sharepoint-and-onedrive",
-    "title": "Where to find/store things",
-    "section": "",
-    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
+    "text": "The University writing guidance contains:\n\nInclusive writing guide, including using short sentences, avoiding complicated language and defining acronyms the first time they’re used.\nHouse style guide, including the use of UK English, common terminology like dates and figures, punctuation and formatting."
   },
   {
     "objectID": "ways-of-working.html",
@@ -285,124 +404,5 @@
     "title": "Ways of working",
     "section": "Outlook calendar",
     "text": "Outlook calendar\nKeep your personal calendar up-to-date as most people use the Scheduling Assistant within Outlook to find the best time for a meeting.\n\nHybrid working\nIf you often work between home and the office, it is helpful to create all-day events to say where you plan to be.\n\n\nDays away from the office (including leave)\nIf you’re away from the office then create an event in the team calendar (grp-Jean Golding Institute Team):\n\nSet the title to “XX annual leave” (where XX are your initials),\nMake it an all-day event and set ‘show as’ to ‘free’ (you can change this on your own calendar to ‘out of office’),\nInviting yourself and your line manager.\n\nYour manage can then accept this invite. The whole team can also see your leave on the team calendar."
-  },
-  {
-    "objectID": "style/documentation.html",
-    "href": "style/documentation.html",
-    "title": "Documentation style",
-    "section": "",
-    "text": "Your project should contain both:\n\nproject documentation: as a minimum a README.txt,\ncode documentation: including inline comments, function, class and module docstrings,\n\nThe documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.\nIt is helpful to think of documentation as falling into one of four modes:\n\ntutorials: learning-oriented lessons that take the reader by the hand through a series of steps to complete a project of some kind,\nhow-to guides: goal-oriented directions that take the reader through the steps required to solve a real-world problem,\nreference guides: information-oriented technical descriptions of the machinery and how to operate it,\nexplanation: understanding-oriented discussion that clarifies and illuminates a particular topic.\n\nThe is a great breakdown of these four areas on the Diátaxis website."
-  },
-  {
-    "objectID": "style/writing.html",
-    "href": "style/writing.html",
-    "title": "Writing style",
-    "section": "",
-    "text": "The University writing guidance contains:\n\nInclusive writing guide, including using short sentences, avoiding complicated language and defining acronyms the first time they’re used.\nHouse style guide, including the use of UK English, common terminology like dates and figures, punctuation and formatting."
-  },
-  {
-    "objectID": "thanks.html",
-    "href": "thanks.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "We thank all those that have contributed to this handbook:\n\nJames Thomas\nRichard Lane\n\nWe are also grateful to the Our Handbook project and the Duck Book for inspiration."
-  },
-  {
-    "objectID": "tools/web-development.html",
-    "href": "tools/web-development.html",
-    "title": "Web development",
-    "section": "",
-    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
-  },
-  {
-    "objectID": "tools/web-development.html#static-websites",
-    "href": "tools/web-development.html#static-websites",
-    "title": "Web development",
-    "section": "",
-    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
-  },
-  {
-    "objectID": "tools/web-development.html#interactive-websites",
-    "href": "tools/web-development.html#interactive-websites",
-    "title": "Web development",
-    "section": "Interactive websites",
-    "text": "Interactive websites\n\nFlask: a Python library for rapidly creating websites. Useful for data ingress/egress pages, for example when working with Internet of Things (IoT) devices.\nDjango: a more substantial batteries-included Python framework for developing entire websites.\n\n\n\n\n\n\n\nTips\n\n\n\n\nIf you’re creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it. It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through data protection impact assessment (DPIA) and penetration testing steps before your site can be used outside the University.\nFor more substantial websites, it is worth approaching Research IT at the project costing stage. They develop websites and apps professionally and use similar tools."
-  },
-  {
-    "objectID": "tools/programming-languages.html",
-    "href": "tools/programming-languages.html",
-    "title": "Programming languages",
-    "section": "",
-    "text": "Which programming language should you use for a project?\n\n\n\nIf you’re starting a new project, it may be obvious which language is most suitable. For example, a researcher may already be comfortable with a particular one. Otherwise, it largely comes down to personal choice.\nWe recommend either Python or R, although it’s worth becoming at least competent in several languages."
-  },
-  {
-    "objectID": "tools/programming-languages.html#interpreted-languages",
-    "href": "tools/programming-languages.html#interpreted-languages",
-    "title": "Programming languages",
-    "section": "Interpreted languages",
-    "text": "Interpreted languages\n\nPython and R are two of the most widely used programming language for data science. They are easy to write, understand and have a large and well-established ecosystem for data science. We have found the use of R more common in statistics and Python more common in machine learning (and general purpose programming).\nMATLAB is also widely used in engineering, mathematics and the physical sciences. It is commercial software, so you need a license to use it (which the University has), although this may impact how easy it will be for others to re-use the code.\nSQL is used for processing data in relational databases. Used well, these databases can produce highly-optimised queries that can handle many records. They are particularly suited for handling data accessible via the web, with users simultaneously reading and writing records."
-  },
-  {
-    "objectID": "tools/programming-languages.html#compiled-languages",
-    "href": "tools/programming-languages.html#compiled-languages",
-    "title": "Programming languages",
-    "section": "Compiled languages",
-    "text": "Compiled languages\nSpecialised projects might have you writing code in a compiled language like C, C++ or Fortran. This is usually if you need to interact closely with the operating system or hardware or if execution time is more important than developer time.\nCommon languages include:\n\nRust: a fast and efficient language, aimed at producing reliable and safe code. It can be used to write low-level extensions for Python.\nFortran: often used for computationally intensive scientific computing. It supports arrays, matrices and complex numbers by default. It is simple and efficient and underpins libraries like SciPy. However because of its longevity, code you come across is often dated.\nC: a fast, portable and simple language. It is often used to write low-level extensions for Python. However, it can be error-prone. You might use it if you’re working on embedded systems like Arduino.\nC++: an extension of C that includes classes, templates and exceptions that you might be used to from higher-level languages. It can be very complicated and is often used for desktop applications, games and large-scale projects."
-  },
-  {
-    "objectID": "tools/scientific-libraries.html",
-    "href": "tools/scientific-libraries.html",
-    "title": "Scientific libraries and tools",
-    "section": "",
-    "text": "The following libraries and tools are recommended:"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#python",
-    "href": "tools/scientific-libraries.html#python",
-    "title": "Scientific libraries and tools",
-    "section": "Python",
-    "text": "Python\n\nData analysis: numpy, pandas\nLarger-than-memory data: dask, polars\nAccelerating Python loops: numba\nSpecialist analysis: scipy\nStatistical modelling: statsmodels\nMachine learning: scikit-learn, keras, tensorflow, tensorboard, pytorch, yellowbrick\nNatural language processing: nltk, spacy\nGeospatial data: geopandas, shapely, rasterio, rioxarray, cartopy\nVisualisation: matplotlib, seaborn, altair, plotly, folium, geoplot\nDashboards: streamlit\nProbabilistic programming: pymc\nStorage of tabular data: Apache Parquet (via pyarrow and fastparquet), HDF5 (via hdf5 and h5py)\nWeb scraping: scrapy, beautifulsoup4, parsel, lxml\nWeb development: flask, django\nUI improvements: rich, tqdm\nNotebooks: jupyterlab (and nbdime for Git integration)\nTesting: pytest\nDocumentation: sphinx, mkdocs"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#r",
-    "href": "tools/scientific-libraries.html#r",
-    "title": "Scientific libraries and tools",
-    "section": "R",
-    "text": "R\n\nData analysis: tidyverse (including dplyr, tidyr), data.table, sf\nVisualisation: ggplot2\nStatistical modelling: glm (built-in), brms\nDashboards: shiny\nDatabase connections: odbc, dbplyr\nTesting: testthat\nDocumentation: pkgdown\nEnvironment management: renv"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#other-tools",
-    "href": "tools/scientific-libraries.html#other-tools",
-    "title": "Scientific libraries and tools",
-    "section": "Other tools",
-    "text": "Other tools\n\nMarkdown documents and websites: quarto, juypterbook\nOnline analytical processing using SQL: duckdb (with duckdb and jupysql for Python integration)\nCommand line json processing: jq\nMakefile-like pipelines: just"
-  },
-  {
-    "objectID": "tools/managing-environments.html",
-    "href": "tools/managing-environments.html",
-    "title": "Managing environments",
-    "section": "",
-    "text": "We recommend keeping track of the exact versions of the software libraries you are using.\nGenerally this is done by creating a reproducible environment (also called a virtual environment).\nSome tools also allow you to use different versions of Python or R for different environments."
-  },
-  {
-    "objectID": "tools/managing-environments.html#python",
-    "href": "tools/managing-environments.html#python",
-    "title": "Managing environments",
-    "section": "Python",
-    "text": "Python\nYou can use pip with venv (or a related tool) or conda (or a related tool) to create an environment and install specific versions of Python libraries.\nWe recommend using mamba (or micromamba) to install Python and create environments. This package manager is compatible with conda and can manage data science environments, including Python and other software. Anywhere you see conda, you can generally substitute it for mamba or micromamba.\nYou should export your environment into an environment.yml (or similar) file and track that using version control. This way, a collaborators can install the same software as you by running conda env create -f environment.yml.\nEven if you don’t want to use conda to install software, you can use it to install specific version of Python and then use pip to install Python libraries. This keeps everything in one place, and you don’t need to switch to using python -m venv.\n\n\n\n\n\n\nTips\n\n\n\n\nNever use a system-wide version of Python (such as on a Mac or Linux machine) as this will be a version used by the operating system. Always install your own version.\nNever install packages globally on your system. This could create conflicts with system libraries or other projects. Always create an environment.\nIf you do use pip, be aware that unlike conda it only checks for conflicts when you install all the libraries you are using at the same time. This is why it’s faster. For this reason, it’s a good idea to install additional libraries by editing your requirements.txt file and then reinstalling everything from a freshly-created (empty) environment each time."
-  },
-  {
-    "objectID": "tools/managing-environments.html#r",
-    "href": "tools/managing-environments.html#r",
-    "title": "Managing environments",
-    "section": "R",
-    "text": "R\nWe recommend creating reproducible environments using renv. See this talk by Kevin Ushey for an introduction.\nrenv uses renv::install() and renv::update() to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with renv will automatically mask).\nRStudio gives you the option of using renv when you create a new project.\n\n\n\n\n\n\nTip\n\n\n\nAlthough it is common practice, we recommend you avoid installing and updating packages globally using install.packages() and update.packages(), unless you are using renv.\nIf you use the global versions of packages, then all your projects will need to use the same versions of every library. If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses."
-  },
-  {
-    "objectID": "TODO.html",
-    "href": "TODO.html",
-    "title": "TODO",
-    "section": "",
-    "text": "Methods of engagement - internal, external, how projects work\nFinish QA description\nOther JGI activities, such as Data Week, Ask-JGI, Data Ethics Club, Data Hazards, …"
   }
 ]
