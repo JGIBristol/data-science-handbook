@@ -12,6 +12,8 @@ This website is a [Quarto website](https://quarto.org/docs/websites/), hosted on
 
 - A [GitHub action](https://quarto.org/docs/publishing/github-pages.html) will be triggered on a commit to the `main` branch which will regenerate and publish the site. This means you can also make changes via the GitHub interface with cloning the repo to your local machine.
 
+- Don't forget to add yourself to our [acknowledgements](https://jgibristol.github.io/data-science-handbook/thanks.html) page.
+
 ### Style guide
 
 - We prefer "we do X", "we recommend X" or "X might be useful", instead of over "you must do X".

@@ -3,10 +3,31 @@ $primary: #772059;
 $link-color: #2e359d;
 $navbar-fg: #fff;
 
-/*-- scss:overrides --*/
+/*-- scss:rules --*/
 a {
     text-underline-position: under;
 }
 a:hover {
     text-decoration-thickness: 2px;
+}
+.navbar-brand-container {
+    max-width: calc(100% - 60px);
+}
+.navbar-brand {
+    font-size: 1.8rem;
+    overflow: visible;
+    white-space: normal;
+    line-height: 1;
+    padding: 1rem 0;
+}
+@media (max-width: 850px) {
+    .nav-footer {
+        display: block;
+        white-space: normal;
+        white-space-collapse: collapse;
+    }
+    .nav-footer > div {
+        text-align: center;
+        margin-top: 0.5rem;
+    }
 }

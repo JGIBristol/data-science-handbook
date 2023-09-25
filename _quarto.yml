@@ -9,7 +9,11 @@ website:
     contents: auto
     style: docked
     # collapse-level: 1
-    tools:
+  repo-url: https://github.com/JGIBristol/data-science-handbook
+  repo-actions: [edit, issue]
+  page-footer:
+    left: "Living document by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)."
+    right:
       - icon: globe2
         href: "https://www.bristol.ac.uk/golding/"
       - icon: folder
@@ -27,7 +31,7 @@ format:
   html:
     theme: [cosmo, styles.scss]
     toc: true
-  
+
 # Recommended by https://quarto.org/docs/publishing/github-pages.html#freezing-computations
 # (although we're not expecting to be executing any code)
 execute:
