@@ -1,0 +1,50 @@
+---
+title: Programming languages
+order: 20
+---
+
+::: {.callout-note}
+## Which programming language should you use for a project?
+
+If you're starting a new project, it may be obvious which language is most suitable.
+For example, a researcher may already be comfortable with a particular one.
+Otherwise, it largely comes down to personal choice.
+
+We recommend either Python or R, although it's worth becoming at least competent in several languages.
+:::
+
+## Interpreted languages
+
+- [Python](https://www.python.org/) and [R](https://www.r-project.org/) are two of the most widely used programming language for data science.
+  They are easy to write, understand and have a large and well-established ecosystem for data science.
+  We have found the use of R more common in statistics and Python more common in machine learning (and general purpose programming).
+
+- [MATLAB](https://www.mathworks.com/products/matlab.html) is also widely used in engineering, mathematics and the physical sciences.
+  It is commercial software, so you need a license to use it (which the University has), although this may impact how easy it will be for others to re-use the code.
+
+- [SQL](https://en.wikipedia.org/wiki/SQL) is used for processing data in relational databases.
+  Used well, these databases can produce highly-optimised queries that can handle many records.
+  They are particularly suited for handling data accessible via the web, with users simultaneously reading and writing records.
+
+## Compiled languages
+
+Specialised projects might have you writing code in a compiled language like C, C++ or Fortran.
+This is usually if you need to interact closely with the operating system or hardware or if execution time is more important than developer time.
+
+Common languages include:
+
+- [Rust](https://www.rust-lang.org/): a fast and efficient language, aimed at producing reliable and safe code.
+  It can be used to write low-level extensions for Python.
+
+- [Fortran](https://fortran-lang.org/): often used for computationally intensive scientific computing.
+  It supports arrays, matrices and complex numbers by default.
+  It is simple and efficient and underpins libraries like SciPy.
+  However because of its longevity, code you come across is often dated.
+
+- [C](https://en.wikipedia.org/wiki/C_(programming_language)): a fast, portable and simple language.
+  It is often used to write low-level extensions for Python.
+  However, it can be error-prone.
+  You might use it if you're working on embedded systems like Arduino.
+
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B): an extension of C that includes classes, templates and exceptions that you might be used to from higher-level languages.
+  It can be very complicated and is often used for desktop applications, games and large-scale projects.

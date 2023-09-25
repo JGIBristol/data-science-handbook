@@ -1,0 +1,30 @@
+---
+title: Other tools
+order: 100
+---
+
+## Command line enhancements
+
+- Command history searching improvements:
+  [`fzf`](https://github.com/junegunn/fzf),
+  [history scrolling](https://superuser.com/a/92966)
+
+- File searching:
+  [`ripgrep`](https://github.com/BurntSushi/ripgrep)
+
+- File viewing:
+  [`bat`](https://github.com/sharkdp/bat)
+
+- Command help:
+  [`tldr`](https://tldr.sh/)
+  
+## Online tools
+
+- Diagramming:
+  [draw.io](https://www.drawio.com/),
+  [Mermaid](https://mermaid.js.org/)
+
+- Whiteboards:
+  [Excalidraw](https://excalidraw.com/),
+  [tldraw](https://www.tldraw.com/)
+    

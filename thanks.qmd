@@ -1,0 +1,11 @@
+---
+title: Acknowledgements
+order: 200
+---
+
+We thank all those that have contributed to this handbook:
+
+- [James Thomas](https://github.com/jatonline)
+- [Richard Lane](https://github.com/richard-lane)
+
+We are also grateful to the [Our Handbook project](https://very-good-science.github.io/our-handbook/) and [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/) for inspiration.

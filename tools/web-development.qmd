@@ -1,0 +1,33 @@
+---
+title: Web development
+order: 70
+---
+
+## Static websites
+
+Useful for projects or interest groups, and can often be hosted for free on [GitHub Pages](https://pages.github.com/).
+
+Many frameworks are available -- we recommend:
+
+- [Quarto](https://quarto.org/) (used by this website),
+- [Jupyter Book](https://jupyterbook.org/) (used by the [Our Handbook project](https://very-good-science.github.io/our-handbook/)),
+- [MkDocs](https://www.mkdocs.org/) for simple project or documentation website.
+
+The native framework for GitHub Pages is [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and another popular tool is [Hugo](https://gohugo.io/).
+
+For documentation websites, [Sphinx](https://www.sphinx-doc.org/) is commonly used.
+
+## Interactive websites
+
+- [Flask](https://flask.palletsprojects.com/): a Python library for [rapidly creating websites](https://flask.palletsprojects.com/en/2.3.x/quickstart/).
+  Useful for data ingress/egress pages, for example when working with Internet of Things (IoT) devices.
+- [Django](https://www.djangoproject.com/): a more substantial batteries-included Python framework for developing entire websites.
+
+::: {.callout-tip}
+## Tips
+
+- If you're creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it.
+  It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through [data protection impact assessment](https://www.bristol.ac.uk/secretary/data-protection/guidance/privacy-impact-assessment/) (DPIA) and penetration testing steps before your site can be used outside the University.
+- For more substantial websites, it is worth approaching [Research IT](https://www.bristol.ac.uk/research-it/) at the project costing stage.
+  They develop websites and apps professionally and use similar tools.
+:::

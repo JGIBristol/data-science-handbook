@@ -1,0 +1,65 @@
+---
+title: Core principles
+order: 10
+---
+
+## Break things down into manageable chunks
+
+Smaller units of work are easier to communicate and help prevent you getting side-tracked.
+
+For example:
+
+- when planning a project, this might be dividing things into work packages and tasks,
+- when working on a task, you could use the pomodoro technique,
+- when coding, this might mean making regular commits, where each commit tries to do one thing.
+
+## Keep notes and documentation
+
+This is useful not only to yourself in the future, but also to other members of the team if they take over or come back to something after a long period of time.
+
+We recommend you keep both:
+
+- **personal notes** to record your thinking and what you do each day (so can go back to something, even if not making a decision at this point),
+- **project documentation** including relevant context, decisions made and the reasons for changes. These are part of our institutional, rather than individual, memory.
+
+Project documentation includes:
+
+- `README` documents,
+- checklists,
+- changelogs,
+- decision logs,
+- event logs.
+
+If you've completed a quality assurance-related activity, such as peer review, then also record that you've done it.
+
+## Use the appropriate tool for the job
+
+We prefer tools that give immediate feedback.
+
+For example:
+
+- when writing code, this might be an IDE that checks your code for errors and gives visual feedback,
+- for documents, this might be an editor that allows real-time editing and has automatic spellchecking.
+
+## Check things meet the required standard
+
+We design-in regular checks within our standard process.
+
+For example:
+
+- with code, this might be using automated tests to check the functionality is as intended,
+- for a data analysis pipeline, this could be checking some sample data produced a known output,
+- for the writing of a bid document, this might be regularly reviewing it against the scoring criteria.
+
+Keep a record of these steps.
+
+## Get others to cross-check
+
+Other people can provide a different perspective and can perform difference types of check.
+
+For example:
+
+- when coding, this might be undertaking code review or pair programming,
+- at the start of a project, this could be a team meeting to discuss ethical or governance issues, or the overall approach you are taking.
+
+Don't wait until the end of a project to do this! Again, keep a record of these steps.

@@ -1,0 +1,28 @@
+---
+title: Quality assurance
+order: 60
+---
+
+It should be easy to do the right thing, and easy to spot if we've done the wrong thing.
+
+We do this by:
+
+- providing enough team feedback so that we don't go down dead ends too often,
+- multiple modes of checking,
+- not leaving checking until the end,
+- discussing ethics and data hazards.
+
+## Peer review process
+
+We suggest the following process for ongoing quality assurance during a project
+
+[TODO]
+
+## QA activities
+
+- Peer review,
+- Code review,
+- Ethics discussions,
+- Pair programming,
+- Internal workshops to discuss an approach,
+- Maintain a 4:1 ratio -- 80% working on projects and 20% assisting with QA on other projects.

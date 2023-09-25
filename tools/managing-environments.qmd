@@ -1,0 +1,53 @@
+---
+title: Managing environments
+order: 50
+---
+
+We recommend keeping track of the exact versions of the software libraries you are using.
+
+Generally this is done by creating a reproducible **environment** (also called a _virtual environment_).
+
+Some tools also allow you to use different versions of Python or R for different environments.
+
+## Python
+
+You can use `pip` with `venv` (or a related tool) or `conda` (or a related tool) to create an environment and install specific versions of Python libraries.
+
+We recommend using [`mamba`](https://mamba.readthedocs.io/) (or `micromamba`) to install Python and create environments.
+This package manager is compatible with `conda` and can manage data science environments, including Python and other software.
+Anywhere you see `conda`, you can generally substitute it for `mamba` or `micromamba`.
+
+You should export your environment into an `environment.yml` (or similar) file and track that using version control.
+This way, a collaborators can install the same software as you by running `conda env create -f environment.yml`.
+
+Even if you don't want to use `conda` to install software, you can use it to install specific version of Python and then use `pip` to install Python libraries.
+This keeps everything in one place, and you don't need to switch to using `python -m venv`.
+
+::: {.callout-tip}
+## Tips
+
+- Never use a system-wide version of Python (such as on a Mac or Linux machine) as this will be a version used by the operating system.
+  Always install your own version.
+- Never install packages globally on your system.
+  This could create conflicts with system libraries or other projects.
+  Always create an environment.
+- If you do use `pip`, be aware that unlike `conda` it only checks for conflicts when you install all the libraries you are using at the same time.
+  This is why it's faster.
+  For this reason, it's a good idea to install additional libraries by editing your `requirements.txt` file and then reinstalling everything from a freshly-created (empty) environment each time.
+:::
+
+## R
+
+We recommend creating reproducible environments using [`renv`](https://rstudio.github.io/renv/).
+See [this talk by Kevin Ushey](https://github.com/kevinushey/2020-rstudio-conf) for an introduction.
+
+`renv` uses `renv::install()` and `renv::update()` to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with `renv` will automatically mask).
+
+RStudio gives you the option of using `renv` when you create a new project.
+
+::: {.callout-tip}
+Although it is common practice, we recommend you **avoid** installing and updating packages globally using `install.packages()` and `update.packages()`, unless you are using `renv`.
+
+If you use the global versions of packages, then all your projects will need to use the same versions of every library.
+If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses.
+:::

@@ -1,0 +1,10 @@
+---
+title: Writing style
+order: 30
+---
+
+The University [writing guidance](https://www.bristol.ac.uk/style-guides/writing/) contains:
+
+- [Inclusive writing guide](https://www.bristol.ac.uk/style-guides/writing/house-style/), including using short sentences, avoiding complicated language and defining acronyms the first time they're used.
+
+- [House style guide](https://www.bristol.ac.uk/style-guides/writing/house-style/), including the use of UK English, common terminology like dates and figures, punctuation and formatting.

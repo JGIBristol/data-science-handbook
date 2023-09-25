@@ -1,0 +1,10 @@
+---
+title: TODO
+order: 1000
+---
+
+- Methods of engagement - internal, external, how projects work
+
+- Finish QA description
+
+- Other JGI activities, such as Data Week, Ask-JGI, Data Ethics Club, Data Hazards, ...

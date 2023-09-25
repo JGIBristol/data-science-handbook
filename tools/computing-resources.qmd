@@ -1,0 +1,79 @@
+---
+title: Computing resources
+order: 10
+---
+
+::: {.callout-note}
+## Which resources can you use?
+
+You must not transfer data onto personal devices or third party cloud services, unless it is publicly available, open source or you have appropriate permission.
+:::
+
+## Laptop
+
+Your laptop will be supplied by the University.
+We recommend requesting a Windows or Max device, as this allows you to use desktop versions of the Office 365 apps (especially Teams -- which we use daily).
+
+We recommend using your local machine for small projects or those where you'd like to use other software locally without context switching.
+For development we recommend using a Unix-like environment. On Windows, we recommend using [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/).
+
+::: {.callout-important}
+Always make sure your data is **backed up**.
+OneDrive syncing should be set up automatically on your device, although for users of WSL this requires additional set-up.
+^[There is an _unofficial_ [OneDrive client for Linux](https://abraunegg.github.io/) that works under WSL.
+This can be used to selectively sync a WSL directory to OneDrive, for backup purposes.]
+
+For most documents, the [appropriate location on SharePoint](../where.qmd) is the best place to store things.
+You can add SharePoint _shortcuts_ to your OneDrive, meaning those folders get synced too.
+Or you can sync entire SharePoint libraries, but this is often too much for the OneDrive sync client to handle!
+:::
+
+## JGI server
+
+We run our own server (hostname: `IT160062.users.bris.ac.uk`) running Ubuntu.
+It has:
+
+- 12 cores (24 threads),
+- 256 GB of memory,
+- 10 GB NVIDIA graphics memory (for deep learning experiments),
+- 4 TB of data storage.
+
+Resources are shared between all JGI data scientists on an informal basis.
+
+You can get SSH access from one of the other data scientists in the team.
+
+## High Performance Computing (HPC) clusters
+
+The University runs the [BlueCrystal 4 and BluePebble HPC clusters](https://www.bristol.ac.uk/acrc/high-performance-computing/).
+
+We have a JGI project (project code: `JGIN025022`) that you ask to join when you [apply for access to the University HPC](https://www.acrc.bris.ac.uk/login-area/apply.cgi).
+
+Once granted access, you will need to be within campus or use the [University VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx) to [connect to the HPC login servers](https://www.acrc.bris.ac.uk/protected/hpc-docs/) before you can submit jobs.
+
+There are also national HPC facilities for specific uses, for example [JASMIN](https://jasmin.ac.uk) for environmental science.
+
+::: {.callout-important}
+The HPC systems are **not backed up** and you need to transfer important files to GitHub or the RDSF.
+:::
+
+## Research Data Storage Facility (RDSF)
+
+The [RDSF](https://www.bristol.ac.uk/acrc/research-data-storage-facility/) provides long-term data storage for research projects.
+Each user gets 5 TB or stage for free.
+
+If you are a project's principal investigator, you can [apply for RDSF storage](https://www.bristol.ac.uk/acrc/research-data-storage-facility/apply-to-use-the-rdsf/) by becoming a data steward for your project.
+
+We have a JGI project (name: `JGI_Training_Project`) that we use for familiarisation and training purposes.
+You can get access from one of the other data scientists in the team.
+
+You will need to be within campus or use the [University VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx) to [connect to the RDSF](https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/).
+Depending on your project's settings, this storage may also be accessible from HPC and/or the JGI server.
+
+## Other servers
+
+Some project and/or groups have access to their own server (like the JGI server) or custom VMs.
+
+Depending on the specific requirements, these could be used to host:
+
+- a [Trusted Research Environment (TRE)](https://www.hdruk.ac.uk/access-to-health-data/trusted-research-environments/), commonly also called a data safe haven or secure research service (SRS),
+- a externally-facing web server to provide data ingress/egress.

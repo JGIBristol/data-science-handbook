@@ -1,0 +1,42 @@
+---
+title: Version control
+order: 40
+---
+
+::: {.callout-note}
+## Can you use cloud services?
+
+Check whether you can use cloud services like GitHub and GitLab before you upload any code.
+
+This includes whether the repo needs to be private (at least to begin with) and what the license terms need to be.
+:::
+
+## Git
+
+Use [Git](https://git-scm.com/) to version control to track and manage changes to code.
+
+::: {.callout-tip}
+For collaborative data science work, we recommend committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
+:::
+
+## GitHub
+
+The JGI has an [GitHub organisation](https://github.com/JGIBristol) that you can use to create collaborative repositories.
+
+You can get access from one of the other data scientists in the team.
+Whilst at the University you can also access [additional education benefits](https://education.github.com/) on GitHub.
+
+::: {.callout-note}
+## Organisation or personal repo?
+
+Using an organisation repo is recommended for larger or long-running projects.
+This is helpful for continuity if there is a change the data scientist working on the project.
+
+For smaller projects or Ask-JGI work, a repo under your personal profile is fine.
+:::
+
+## Data
+
+You can also version control data but this is more unusual (raw or source data is generally considered read-only).
+
+One data version control tool is [DVC](https://dvc.org/).

@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+$primary: #772059;
+$link-color: #2e359d;
+$navbar-fg: #fff;
+
+/*-- scss:overrides --*/
+a {
+    text-underline-position: under;
+}
+a:hover {
+    text-decoration-thickness: 2px;
+}

@@ -1,0 +1,49 @@
+---
+title: Data visualisation and communication
+order: 60
+---
+
+::: {.callout-tip}
+## Related activities
+
+The JGI runs:
+
+- [Bristol DataViz Group](https://dataviz.blogs.bristol.ac.uk/): a group for individuals interested in data visualisation, where members can skill-share, discuss data visualisation topics and highlight great examples.
+- [Beauty of Data Competition](https://www.bristol.ac.uk/golding/get-involved/competitions/beauty-of-data-competition/): a competition to find the best data visualisations from University of Bristol research.
+:::
+
+## Communication
+
+For creating reproducible code-driven documents, we recommend:
+
+- [Quarto](https://quarto.org/) (formerly RMarkdown) for Python, R or even without code (for example, this website!)
+- [JupyterLab](https://jupyter.org/) and Jupyter Notebooks for Python.
+
+## Dashboards
+
+For rapidly building dashboards in Python or R, we recommend:
+
+- [Streamlit](https://streamlit.io/) for Python,
+- [Shiny](https://www.rstudio.com/products/shiny/) for R. 
+
+## Web visualisations
+
+For more complex data visualisations targetted at web pages, try the javascript library [D3](https://d3js.org/).
+
+## No-code tools
+
+There are many tools that can be used for visualisation (and analysis) of data tat do not require code.
+Although these can be difficult to version control and may require additional software licenses, they can be much more accessible for collaborators.
+These might be a good fit for some projects.
+
+- [Excel](https://support.microsoft.com/en-gb/excel): useful for quickly exploring data.
+  Very flexible and generally accessible to all.
+  But can introduce [problems with some data types](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates) and easy to follow bas practices.
+
+- [Power BI](https://powerbi.microsoft.com/): primary used for business analysis.
+  Can connect to a variety of data sources inside the Microsoft 365 ecosystem.
+  Can produce dashboards that can be shared securely within the University.
+
+- [Tableau](https://www.tableau.com/): similar to Power BI.
+  Popular in industry.
+  We often have a training session on Tableau during Data Week.

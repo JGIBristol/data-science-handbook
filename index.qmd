@@ -1,0 +1,22 @@
+---
+title: Welcome to the JGI Data Science Handbook
+---
+
+## Purpose of the handbook
+
+This handbook aims to:
+
+- make new members of the team familiar with **how we work**,
+- be a place for us to share **important information**, advice, best practices and useful tools,
+- and commit us to producing **quality outputs** in a positive working environment.
+
+There are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more.
+We give specific examples where we're adding something that isn't said elsewhere or where we're suggesting a common approach or 'house style' relevant to the team.
+
+## Further reading
+
+One guide we like is the Government Analysis Function guidance on "Quality assurance of code for analysis and research" produced by the ONS, also known as [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/).
+
+The are also many templates for data science projects.
+One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).
+Whilst we don't specify a particular template, they all provide good inspiration.

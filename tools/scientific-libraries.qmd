@@ -1,0 +1,133 @@
+---
+title: Scientific libraries and tools
+order: 30
+---
+
+The following libraries and tools are recommended:
+
+## Python
+
+- Data analysis:
+  `numpy`,
+  `pandas`
+
+- Larger-than-memory data:
+  `dask`,
+  `polars`
+
+- Accelerating Python loops:
+  `numba`
+
+- Specialist analysis:
+  `scipy`
+
+- Statistical modelling:
+  `statsmodels`
+
+- Machine learning:
+  `scikit-learn`,
+  `keras`,
+  `tensorflow`,
+  `tensorboard`,
+  `pytorch`,
+  `yellowbrick`
+
+- Natural language processing:
+  `nltk`,
+  `spacy`
+
+- Geospatial data:
+  `geopandas`,
+  `shapely`,
+  `rasterio`,
+  `rioxarray`,
+  `cartopy`
+
+- Visualisation:
+  `matplotlib`,
+  `seaborn`,
+  `altair`,
+  `plotly`,
+  `folium`,
+  `geoplot`
+
+- Dashboards:
+  `streamlit`
+
+- Probabilistic programming:
+  `pymc`
+
+- Storage of tabular data:
+  Apache Parquet (via `pyarrow` and `fastparquet`),
+  HDF5 (via `hdf5` and `h5py`)
+
+- Web scraping:
+  `scrapy`,
+  `beautifulsoup4`,
+  `parsel`,
+  `lxml`
+
+- Web development:
+  `flask`,
+  `django`
+
+- UI improvements:
+  `rich`,
+  `tqdm`
+
+- Notebooks:
+  `jupyterlab`
+  (and `nbdime` for Git integration)
+
+- Testing:
+  `pytest`
+
+- Documentation:
+  `sphinx`,
+  `mkdocs`
+
+## R
+
+- Data analysis:
+  `tidyverse` (including `dplyr`, `tidyr`),
+  `data.table`,
+  `sf`
+
+- Visualisation:
+  `ggplot2`
+
+- Statistical modelling:
+  `glm` (built-in),
+  `brms`
+
+- Dashboards:
+  `shiny`
+
+- Database connections:
+  `odbc`,
+  `dbplyr`
+
+- Testing:
+  `testthat`
+
+- Documentation:
+  `pkgdown`
+
+- Environment management:
+  `renv`
+
+## Other tools
+
+- Markdown documents and websites:
+  `quarto`,
+  `juypterbook`
+
+- Online analytical processing using SQL:
+  `duckdb`
+  (with `duckdb` and `jupysql` for Python integration)
+
+- Command line json processing:
+  `jq`
+
+- Makefile-like pipelines:
+  `just`

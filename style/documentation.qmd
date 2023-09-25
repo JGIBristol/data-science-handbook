@@ -1,0 +1,23 @@
+---
+title: Documentation style
+order: 20
+---
+
+Your project should contain both:
+
+- [project documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html): as a minimum a `README.txt`,
+- [code documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html): including inline comments, function, class and module docstrings,
+
+The documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.
+
+It is helpful to think of documentation as falling into one of four modes:
+
+- **tutorials**: _learning-oriented_ lessons that take the reader by the hand through a series of steps to complete a project of some kind,
+
+- **how-to guides**: _goal-oriented_ directions that take the reader through the steps required to solve a real-world problem,
+
+- **reference guides**: _information-oriented_ technical descriptions of the machinery and how to operate it,
+
+- **explanation**: _understanding-oriented_ discussion that clarifies and illuminates a particular topic.
+
+The is a great breakdown of these four areas on the [Diátaxis](https://diataxis.fr/) website.

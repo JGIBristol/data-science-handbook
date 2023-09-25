@@ -1,0 +1,56 @@
+---
+title: Where to find/store things
+order: 40
+---
+
+## SharePoint and OneDrive
+
+Use the [JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared Documents/Forms/All.aspx) for most documents.
+
+Use your University [OneDrive](https://uob-my.sharepoint.com/) for private documents and as a personal backup.
+
+::: {.callout-tip}
+Most of the time, you can open Office documents directly from SharePoint if you have internet access.
+
+For offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device.
+You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!
+:::
+
+### Useful SharePoint locations
+
+#### [Projects](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/Projects)
+
+For **data science projects** that are not large or long-term enough to have their own dedicated folder or SharePoint team.
+
+- Each project has its own folder, starting with the project number.
+
+- Each folder should contain:
+
+    1. a layperson description of the project tht can be used on the website and in case studies,
+    2. information on the funding for the project,
+    3. notes of important meetings, copies of presentations or changes to the project,
+    4. any code, data or resources that are not saved elsewhere.
+
+- Projects and project numbers are tracked in the [Research Development spreadsheet](https://uob.sharepoint.com/:x:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/Reporting/JGI Activities/Research Development (Funding).xlsx?web=1).
+
+#### [JGI Staff Info](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/JGI Staff Info)
+
+Including:
+
+- [Agendas and minutes from team meetings](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/JGI Staff Info/Team Meetings/JGI Agendas- %27All Team%27 Meeting)
+
+- [Annual leave](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/JGI Staff Info/Annual Leave)
+
+- [Desk booking](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/JGI Staff Info/Health and Safety/Royal Fort House Return/Desk Booking)
+
+#### [Data Science channel](https://uob.sharepoint.com/teams/grp-JeanGoldingInstituteTeam/Shared Documents/Data Science channel)
+
+For documents shared within the Data Scientist channel on teams. (But not for projects!)
+
+#### [Ask-JGI channel](https://uob.sharepoint.com/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/Shared Documents/Forms/AllItems.aspx)
+
+For documents shared with the Ask-JGI PhD data scientist team.
+
+#### [Ask-JGI tracker](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Lists/AskJGI tracker)
+
+Automatically populated as emails come in to the Ask-JGI helpdesk: `ask-jgi@bristol.ac.uk`.

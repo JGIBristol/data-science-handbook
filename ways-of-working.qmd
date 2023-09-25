@@ -1,0 +1,54 @@
+---
+title: Ways of working
+order: 50
+---
+
+## Microsoft Teams
+
+We use Teams as our general internal communication and chat app, when an email isn't required.
+
+**Use channels** rather than chats where possible.
+These are more open and leave a record that can be searched by people in the future.
+
+- **General channel** -- all the JGI team,
+- **Data Science channel** -- accessible to all the team, but primarily for data science discussion,
+- **Ask-JGI channel** -- for disucssion with the Ask-JGI PhD data scientist team,
+- and various other project channels.
+
+### Saying hello
+
+We try to say "good morning" on the _General channel_ and give an overview of what we will be working on that day and any challenges we are working on.
+  This is an asynchronous replacement for a traditional morning 'stand up' meeting and is more inclusive of people working from home that day.
+
+### Data science meetings
+
+Schedule meetings within the _Data Science channel_ so that in-meeting chats also appear within the channel.
+
+- Before the meeting, use the channel to flag items for the agenda of the next meeting.
+- During the meeting, use the in-meeting for minutes, taking it in turns (when one person is speaking, another person take notes of those actions)
+
+## Outlook email
+
+As well as your personal email inbox, we use the following **shared mailboxes**:
+
+- the [Ask-JGI inbox](https://outlook.office.com/mail/ask-jgi@bristol.ac.uk/inbox),
+- other shared mailboxes for dedicated tasks, for example the admin team uses `jgi-admin@bristol.ac.uk`.
+
+## Outlook calendar
+
+Keep your personal calendar up-to-date as most people use the _Scheduling Assistant_ within Outlook to find the best time for a meeting.
+
+### Hybrid working
+
+If you often work between home and the office, it is helpful to create all-day events to say where you plan to be.
+
+### Days away from the office (including leave)
+
+If you're away from the office then **create an event in the team calendar** (grp-Jean Golding Institute Team):
+
+- Set the title to "XX annual leave" (where XX are your initials),
+- Make it an all-day event and set 'show as' to 'free' (you can change this on your own calendar to 'out of office'),
+- Inviting yourself and your line manager.
+
+Your manage can then accept this invite.
+The whole team can also see your leave on the team calendar.

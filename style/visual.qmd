@@ -1,0 +1,24 @@
+---
+title: Visual style
+order: 40
+---
+
+The University [brand guidelines](https://uob.sharepoint.com/sites/marketing/SitePages/Brand-guidlines.aspx) contain information on:
+
+- the use of the University logo,
+- the University colour scheme,
+- the University fonts and typography.
+
+We also have JGI-specific resources:
+
+- **Word and PowerPoint templates** for letter, short reports, long reports and presentations.
+  These can be found in the [JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/All.aspx).
+  Click the `New` menu and then choose a template from the list.
+  
+- **Quarto template** for HTML and Word documents produced from Markdown and code.
+  This can be found in the [JGI GitHub](https://github.com/JGIBristol/quarto-uob-jgi/).
+  It can be used by running `quarto use template jgibristol/quarto-uob-jgi`.
+
+::: {.callout-tip}
+When writing documents in Word, use the provided styles to avoid having to format everything manually.
+:::

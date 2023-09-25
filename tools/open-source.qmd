@@ -1,0 +1,41 @@
+---
+title: Open source
+order: 45
+---
+
+::: {.callout-note}
+## Can you release your code as open source?
+
+The University is in the process of producing an _Open Source Code_ policy.
+Once it is published, this page will be updated.
+:::
+
+Make all new source code open and reusable, and publish it under appropriate licences.
+Or if this is not possible, provide a convincing explanation of why this cannot be done for specific subsets of the source code.
+
+### Code that could be open
+
+You _might_ be able to release the following:
+
+- Analysis scripts,
+- Source code for compiled programs,
+- Configuration data for running or managing the program,
+- Database schema,
+- Code to compile, test or package the software,
+- Documentation to instruct others how to install, test and use the software.
+
+### Code that should not be open
+
+You **must not** release code that:
+
+- Contains personal or protected data (these should be stored separately),
+- Relates to sensitive research that has not been published yet or could compromise the proper publication of research results,
+- Relates to intellectual property that needs protecting (for example industrial collaborations or where there are plans to commercialise the research),
+- Could compromise the security or integrity of research infrastructure (such as login details, descriptions security or anti-fraud systems, or unpublished policy).
+
+### References
+
+- (In preparation) Open Source Code policy, University of Bristol
+- [When code should be open or closed](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed), GOV.UK
+- [Be open and use open source](https://www.gov.uk/guidance/be-open-and-use-open-source), GOV.UK
+- [Choosing an open-source licence](https://software.ac.uk/resources/guides/choosing-open-source-licence), Software Sustainability Institute

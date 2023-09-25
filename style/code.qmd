@@ -1,0 +1,32 @@
+---
+title: Code style
+order: 10
+---
+
+Follow the Duck Book guidance on:
+
+- [modular code](https://best-practice-and-impact.github.io/qa-of-code-guidance/modular_code.html),
+- [readable code](https://best-practice-and-impact.github.io/qa-of-code-guidance/readable_code.html).
+
+This contains recommendations on (amongst other things) naming conventions, style and formatting.
+
+::: {.callout-tip}
+## Tips
+
+- We recommend using [Black](https://github.com/psf/black) to apply [PEP-8](https://peps.python.org/pep-0008/) formatting Python code.
+- RStudio can reformat your R code automatically (Ctrl-Shift-A by default).
+:::
+
+## Reproducible analysis pipelines
+
+You should [structure your project](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_structure.html) so that:
+
+- raw data is read-only,
+- all your outputs are disposable,
+- (if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.
+
+::: {.callout-tip}
+In some situations it can be difficult to produce an _easily_ reproducible pipeline.
+For example when using HPC, code often needs to be run across different systems and different environments.
+This is fine -- just ensure there is enough documentation so that it is _technically possible_ for someone to reproduce your work.
+:::
