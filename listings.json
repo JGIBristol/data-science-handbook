@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/style/index.html",
+    "items": [
+      "/style/code.html",
+      "/style/documentation.html",
+      "/style/writing.html",
+      "/style/visual.html"
+    ]
+  },
+  {
+    "listing": "/tools/index.html",
+    "items": [
+      "/tools/computing-resources.html",
+      "/tools/programming-languages.html",
+      "/tools/scientific-libraries.html",
+      "/tools/version-control.html",
+      "/tools/open-source.html",
+      "/tools/managing-environments.html",
+      "/tools/visualisation-and-communication.html",
+      "/tools/web-development.html",
+      "/tools/other.html"
+    ]
+  }
+]
