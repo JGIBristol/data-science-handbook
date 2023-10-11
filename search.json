@@ -1,59 +1,73 @@
 [
   {
-    "objectID": "qa.html",
-    "href": "qa.html",
-    "title": "Quality assurance",
+    "objectID": "ways-of-working.html",
+    "href": "ways-of-working.html",
+    "title": "Ways of working",
     "section": "",
-    "text": "It should be easy to do the right thing, and easy to spot if we’ve done the wrong thing.\nWe do this by:"
+    "text": "We use Teams as our general internal communication and chat app, when an email isn’t required.\nUse channels rather than chats where possible. These are more open and leave a record that can be searched by people in the future.\n\nGeneral channel – all the JGI team,\nData Science channel – accessible to all the team, but primarily for data science discussion,\nAsk-JGI channel – for disucssion with the Ask-JGI PhD data scientist team,\nand various other project channels.\n\n\n\nWe try to say “good morning” on the General channel and give an overview of what we will be working on that day and any challenges we are working on. This is an asynchronous replacement for a traditional morning ‘stand up’ meeting and is more inclusive of people working from home that day.\n\n\n\nSchedule meetings within the Data Science channel so that in-meeting chats also appear within the channel.\n\nBefore the meeting, use the channel to flag items for the agenda of the next meeting.\nDuring the meeting, use the in-meeting for minutes, taking it in turns (when one person is speaking, another person take notes of those actions)"
   },
   {
-    "objectID": "qa.html#peer-review-process",
-    "href": "qa.html#peer-review-process",
-    "title": "Quality assurance",
-    "section": "Peer review process",
-    "text": "Peer review process\nWe suggest the following process for ongoing quality assurance during a project\n[TODO]"
-  },
-  {
-    "objectID": "qa.html#qa-activities",
-    "href": "qa.html#qa-activities",
-    "title": "Quality assurance",
-    "section": "QA activities",
-    "text": "QA activities\n\nPeer review,\nCode review,\nEthics discussions,\nPair programming,\nInternal workshops to discuss an approach,\nMaintain a 4:1 ratio – 80% working on projects and 20% assisting with QA on other projects."
-  },
-  {
-    "objectID": "where.html",
-    "href": "where.html",
-    "title": "Where to find/store things",
+    "objectID": "ways-of-working.html#microsoft-teams",
+    "href": "ways-of-working.html#microsoft-teams",
+    "title": "Ways of working",
     "section": "",
-    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
+    "text": "We use Teams as our general internal communication and chat app, when an email isn’t required.\nUse channels rather than chats where possible. These are more open and leave a record that can be searched by people in the future.\n\nGeneral channel – all the JGI team,\nData Science channel – accessible to all the team, but primarily for data science discussion,\nAsk-JGI channel – for disucssion with the Ask-JGI PhD data scientist team,\nand various other project channels.\n\n\n\nWe try to say “good morning” on the General channel and give an overview of what we will be working on that day and any challenges we are working on. This is an asynchronous replacement for a traditional morning ‘stand up’ meeting and is more inclusive of people working from home that day.\n\n\n\nSchedule meetings within the Data Science channel so that in-meeting chats also appear within the channel.\n\nBefore the meeting, use the channel to flag items for the agenda of the next meeting.\nDuring the meeting, use the in-meeting for minutes, taking it in turns (when one person is speaking, another person take notes of those actions)"
   },
   {
-    "objectID": "where.html#sharepoint-and-onedrive",
-    "href": "where.html#sharepoint-and-onedrive",
-    "title": "Where to find/store things",
+    "objectID": "ways-of-working.html#outlook-email",
+    "href": "ways-of-working.html#outlook-email",
+    "title": "Ways of working",
+    "section": "Outlook email",
+    "text": "Outlook email\nAs well as your personal email inbox, we use the following shared mailboxes:\n\nthe Ask-JGI inbox,\nother shared mailboxes for dedicated tasks, for example the admin team uses jgi-admin@bristol.ac.uk."
+  },
+  {
+    "objectID": "ways-of-working.html#outlook-calendar",
+    "href": "ways-of-working.html#outlook-calendar",
+    "title": "Ways of working",
+    "section": "Outlook calendar",
+    "text": "Outlook calendar\nKeep your personal calendar up-to-date as most people use the Scheduling Assistant within Outlook to find the best time for a meeting.\n\nHybrid working\nIf you often work between home and the office, it is helpful to create all-day events to say where you plan to be.\n\n\nDays away from the office (including leave)\nIf you’re away from the office then create an event in the team calendar (grp-Jean Golding Institute Team):\n\nSet the title to “XX annual leave” (where XX are your initials),\nMake it an all-day event and set ‘show as’ to ‘free’ (you can change this on your own calendar to ‘out of office’),\nInviting yourself and your line manager.\n\nYour manage can then accept this invite. The whole team can also see your leave on the team calendar."
+  },
+  {
+    "objectID": "core-principles.html",
+    "href": "core-principles.html",
+    "title": "Core principles",
     "section": "",
-    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
+    "text": "Smaller units of work are easier to communicate and help prevent you getting side-tracked.\nFor example:\n\nwhen planning a project, this might be dividing things into work packages and tasks,\nwhen working on a task, you could use the pomodoro technique,\nwhen coding, this might mean making regular commits, where each commit tries to do one thing."
   },
   {
-    "objectID": "style/documentation.html",
-    "href": "style/documentation.html",
-    "title": "Documentation style",
+    "objectID": "core-principles.html#break-things-down-into-manageable-chunks",
+    "href": "core-principles.html#break-things-down-into-manageable-chunks",
+    "title": "Core principles",
     "section": "",
-    "text": "Your project should contain both:\n\nproject documentation: as a minimum a README.txt,\ncode documentation: including inline comments, function, class and module docstrings,\n\nThe documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.\nIt is helpful to think of documentation as falling into one of four modes:\n\ntutorials: learning-oriented lessons that take the reader by the hand through a series of steps to complete a project of some kind,\nhow-to guides: goal-oriented directions that take the reader through the steps required to solve a real-world problem,\nreference guides: information-oriented technical descriptions of the machinery and how to operate it,\nexplanation: understanding-oriented discussion that clarifies and illuminates a particular topic.\n\nThe is a great breakdown of these four areas on the Diátaxis website."
+    "text": "Smaller units of work are easier to communicate and help prevent you getting side-tracked.\nFor example:\n\nwhen planning a project, this might be dividing things into work packages and tasks,\nwhen working on a task, you could use the pomodoro technique,\nwhen coding, this might mean making regular commits, where each commit tries to do one thing."
   },
   {
-    "objectID": "style/code.html",
-    "href": "style/code.html",
-    "title": "Code style",
-    "section": "",
-    "text": "Follow the Duck Book guidance on:\nThis contains recommendations on (amongst other things) naming conventions, style and formatting."
+    "objectID": "core-principles.html#keep-notes-and-documentation",
+    "href": "core-principles.html#keep-notes-and-documentation",
+    "title": "Core principles",
+    "section": "Keep notes and documentation",
+    "text": "Keep notes and documentation\nThis is useful not only to yourself in the future, but also to other members of the team if they take over or come back to something after a long period of time.\nWe recommend you keep both:\n\npersonal notes to record your thinking and what you do each day (so can go back to something, even if not making a decision at this point),\nproject documentation including relevant context, decisions made and the reasons for changes. These are part of our institutional, rather than individual, memory.\n\nProject documentation includes:\n\nREADME documents,\nchecklists,\nchangelogs,\ndecision logs,\nevent logs.\n\nIf you’ve completed a quality assurance-related activity, such as peer review, then also record that you’ve done it."
   },
   {
-    "objectID": "style/code.html#reproducible-analysis-pipelines",
-    "href": "style/code.html#reproducible-analysis-pipelines",
-    "title": "Code style",
-    "section": "Reproducible analysis pipelines",
-    "text": "Reproducible analysis pipelines\nYou should structure your project so that:\n\nraw data is read-only,\nall your outputs are disposable,\n(if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.\n\n\n\n\n\n\n\nTip\n\n\n\nIn some situations it can be difficult to produce an easily reproducible pipeline. For example when using HPC, code often needs to be run across different systems and different environments. This is fine – just ensure there is enough documentation so that it is technically possible for someone to reproduce your work."
+    "objectID": "core-principles.html#use-the-appropriate-tool-for-the-job",
+    "href": "core-principles.html#use-the-appropriate-tool-for-the-job",
+    "title": "Core principles",
+    "section": "Use the appropriate tool for the job",
+    "text": "Use the appropriate tool for the job\nWe prefer tools that give immediate feedback.\nFor example:\n\nwhen writing code, this might be an IDE that checks your code for errors and gives visual feedback,\nfor documents, this might be an editor that allows real-time editing and has automatic spellchecking."
+  },
+  {
+    "objectID": "core-principles.html#check-things-meet-the-required-standard",
+    "href": "core-principles.html#check-things-meet-the-required-standard",
+    "title": "Core principles",
+    "section": "Check things meet the required standard",
+    "text": "Check things meet the required standard\nWe design-in regular checks within our standard process.\nFor example:\n\nwith code, this might be using automated tests to check the functionality is as intended,\nfor a data analysis pipeline, this could be checking some sample data produced a known output,\nfor the writing of a bid document, this might be regularly reviewing it against the scoring criteria.\n\nKeep a record of these steps."
+  },
+  {
+    "objectID": "core-principles.html#get-others-to-cross-check",
+    "href": "core-principles.html#get-others-to-cross-check",
+    "title": "Core principles",
+    "section": "Get others to cross-check",
+    "text": "Get others to cross-check\nOther people can provide a different perspective and can perform difference types of check.\nFor example:\n\nwhen coding, this might be undertaking code review or pair programming,\nat the start of a project, this could be a team meeting to discuss ethical or governance issues, or the overall approach you are taking.\n\nDon’t wait until the end of a project to do this! Again, keep a record of these steps."
   },
   {
     "objectID": "thanks.html",
@@ -61,132 +75,6 @@
     "title": "Acknowledgements",
     "section": "",
     "text": "We thank all those that have contributed to this handbook:\n\nJames Thomas\nRichard Lane\n\nWe are also grateful to the Our Handbook project and the Duck Book for inspiration."
-  },
-  {
-    "objectID": "TODO.html",
-    "href": "TODO.html",
-    "title": "TODO",
-    "section": "",
-    "text": "Methods of engagement - internal, external, how projects work\nFinish QA description\nOther JGI activities, such as Data Week, Ask-JGI, Data Ethics Club, Data Hazards, …"
-  },
-  {
-    "objectID": "tools/version-control.html",
-    "href": "tools/version-control.html",
-    "title": "Version control",
-    "section": "",
-    "text": "Can you use cloud services?\n\n\n\nCheck whether you can use cloud services like GitHub and GitLab before you upload any code.\nThis includes whether the repo needs to be private (at least to begin with) and what the license terms need to be."
-  },
-  {
-    "objectID": "tools/version-control.html#git",
-    "href": "tools/version-control.html#git",
-    "title": "Version control",
-    "section": "Git",
-    "text": "Git\nUse Git to version control to track and manage changes to code.\n\n\n\n\n\n\nTip\n\n\n\nFor collaborative data science work, we recommend committing frequently and following the principles of trunk-based development."
-  },
-  {
-    "objectID": "tools/version-control.html#github",
-    "href": "tools/version-control.html#github",
-    "title": "Version control",
-    "section": "GitHub",
-    "text": "GitHub\nThe JGI has an GitHub organisation that you can use to create collaborative repositories.\nYou can get access from one of the other data scientists in the team. Whilst at the University you can also access additional education benefits on GitHub.\n\n\n\n\n\n\nOrganisation or personal repo?\n\n\n\nUsing an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change the data scientist working on the project.\nFor smaller projects or Ask-JGI work, a repo under your personal profile is fine."
-  },
-  {
-    "objectID": "tools/version-control.html#data",
-    "href": "tools/version-control.html#data",
-    "title": "Version control",
-    "section": "Data",
-    "text": "Data\nYou can also version control data but this is more unusual (raw or source data is generally considered read-only).\nOne data version control tool is DVC."
-  },
-  {
-    "objectID": "tools/scientific-libraries.html",
-    "href": "tools/scientific-libraries.html",
-    "title": "Scientific libraries and tools",
-    "section": "",
-    "text": "The following libraries and tools are recommended:"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#python",
-    "href": "tools/scientific-libraries.html#python",
-    "title": "Scientific libraries and tools",
-    "section": "Python",
-    "text": "Python\n\nData analysis: numpy, pandas\nLarger-than-memory data: dask, polars\nAccelerating Python loops: numba\nSpecialist analysis: scipy\nStatistical modelling: statsmodels\nMachine learning: scikit-learn, keras, tensorflow, tensorboard, pytorch, yellowbrick\nNatural language processing: nltk, spacy\nGeospatial data: geopandas, shapely, rasterio, rioxarray, cartopy\nVisualisation: matplotlib, seaborn, altair, plotly, folium, geoplot\nDashboards: streamlit\nProbabilistic programming: pymc\nStorage of tabular data: Apache Parquet (via pyarrow and fastparquet), HDF5 (via hdf5 and h5py)\nWeb scraping: scrapy, beautifulsoup4, parsel, lxml\nWeb development: flask, django\nUI improvements: rich, tqdm\nNotebooks: jupyterlab (and nbdime for Git integration)\nTesting: pytest\nDocumentation: sphinx, mkdocs"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#r",
-    "href": "tools/scientific-libraries.html#r",
-    "title": "Scientific libraries and tools",
-    "section": "R",
-    "text": "R\n\nData analysis: tidyverse (including dplyr, tidyr), data.table, sf\nVisualisation: ggplot2\nStatistical modelling: glm (built-in), brms\nDashboards: shiny\nDatabase connections: odbc, dbplyr\nTesting: testthat\nDocumentation: pkgdown\nEnvironment management: renv"
-  },
-  {
-    "objectID": "tools/scientific-libraries.html#other-tools",
-    "href": "tools/scientific-libraries.html#other-tools",
-    "title": "Scientific libraries and tools",
-    "section": "Other tools",
-    "text": "Other tools\n\nMarkdown documents and websites: quarto, juypterbook\nOnline analytical processing using SQL: duckdb (with duckdb and jupysql for Python integration)\nCommand line json processing: jq\nMakefile-like pipelines: just"
-  },
-  {
-    "objectID": "tools/visualisation-and-communication.html",
-    "href": "tools/visualisation-and-communication.html",
-    "title": "Data visualisation and communication",
-    "section": "",
-    "text": "Related activities\n\n\n\nThe JGI runs:\n\nBristol DataViz Group: a group for individuals interested in data visualisation, where members can skill-share, discuss data visualisation topics and highlight great examples.\nBeauty of Data Competition: a competition to find the best data visualisations from University of Bristol research."
-  },
-  {
-    "objectID": "tools/visualisation-and-communication.html#communication",
-    "href": "tools/visualisation-and-communication.html#communication",
-    "title": "Data visualisation and communication",
-    "section": "Communication",
-    "text": "Communication\nFor creating reproducible code-driven documents, we recommend:\n\nQuarto (formerly RMarkdown) for Python, R or even without code (for example, this website!)\nJupyterLab and Jupyter Notebooks for Python."
-  },
-  {
-    "objectID": "tools/visualisation-and-communication.html#dashboards",
-    "href": "tools/visualisation-and-communication.html#dashboards",
-    "title": "Data visualisation and communication",
-    "section": "Dashboards",
-    "text": "Dashboards\nFor rapidly building dashboards in Python or R, we recommend:\n\nStreamlit for Python,\nShiny for R."
-  },
-  {
-    "objectID": "tools/visualisation-and-communication.html#web-visualisations",
-    "href": "tools/visualisation-and-communication.html#web-visualisations",
-    "title": "Data visualisation and communication",
-    "section": "Web visualisations",
-    "text": "Web visualisations\nFor more complex data visualisations targetted at web pages, try the javascript library D3."
-  },
-  {
-    "objectID": "tools/visualisation-and-communication.html#no-code-tools",
-    "href": "tools/visualisation-and-communication.html#no-code-tools",
-    "title": "Data visualisation and communication",
-    "section": "No-code tools",
-    "text": "No-code tools\nThere are many tools that can be used for visualisation (and analysis) of data tat do not require code. Although these can be difficult to version control and may require additional software licenses, they can be much more accessible for collaborators. These might be a good fit for some projects.\n\nExcel: useful for quickly exploring data. Very flexible and generally accessible to all. But can introduce problems with some data types and easy to follow bas practices.\nPower BI: primary used for business analysis. Can connect to a variety of data sources inside the Microsoft 365 ecosystem. Can produce dashboards that can be shared securely within the University.\nTableau: similar to Power BI. Popular in industry. We often have a training session on Tableau during Data Week."
-  },
-  {
-    "objectID": "tools/open-source.html",
-    "href": "tools/open-source.html",
-    "title": "Open source",
-    "section": "",
-    "text": "Can you release your code as open source?\n\n\n\nThe University is in the process of producing an Open Source Code policy. Once it is published, this page will be updated.\n\n\nMake all new source code open and reusable, and publish it under appropriate licences. Or if this is not possible, provide a convincing explanation of why this cannot be done for specific subsets of the source code.\n\nCode that could be open\nYou might be able to release the following:\n\nAnalysis scripts,\nSource code for compiled programs,\nConfiguration data for running or managing the program,\nDatabase schema,\nCode to compile, test or package the software,\nDocumentation to instruct others how to install, test and use the software.\n\n\n\nCode that should not be open\nYou must not release code that:\n\nContains personal or protected data (these should be stored separately),\nRelates to sensitive research that has not been published yet or could compromise the proper publication of research results,\nRelates to intellectual property that needs protecting (for example industrial collaborations or where there are plans to commercialise the research),\nCould compromise the security or integrity of research infrastructure (such as login details, descriptions security or anti-fraud systems, or unpublished policy).\n\n\n\nReferences\n\n(In preparation) Open Source Code policy, University of Bristol\nWhen code should be open or closed, GOV.UK\nBe open and use open source, GOV.UK\nChoosing an open-source licence, Software Sustainability Institute"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "",
-    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
-  },
-  {
-    "objectID": "index.html#purpose-of-the-handbook",
-    "href": "index.html#purpose-of-the-handbook",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "",
-    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
-  },
-  {
-    "objectID": "index.html#further-reading",
-    "href": "index.html#further-reading",
-    "title": "Welcome to the JGI Data Science Handbook",
-    "section": "Further reading",
-    "text": "Further reading\nOne guide we like is the Government Analysis Function guidance on “Quality assurance of code for analysis and research” produced by the ONS, also known as the Duck Book.\nThe are also many templates for data science projects. One such template is the govcookiecutter and its associated blog post. Whilst we don’t specify a particular template, they all provide good inspiration."
   },
   {
     "objectID": "tools/other.html",
@@ -208,27 +96,6 @@
     "title": "Other tools",
     "section": "Online tools",
     "text": "Online tools\n\nDiagramming: draw.io, Mermaid\nWhiteboards: Excalidraw, tldraw"
-  },
-  {
-    "objectID": "tools/managing-environments.html",
-    "href": "tools/managing-environments.html",
-    "title": "Managing environments",
-    "section": "",
-    "text": "We recommend keeping track of the exact versions of the software libraries you are using.\nGenerally this is done by creating a reproducible environment (also called a virtual environment).\nSome tools also allow you to use different versions of Python or R for different environments."
-  },
-  {
-    "objectID": "tools/managing-environments.html#python",
-    "href": "tools/managing-environments.html#python",
-    "title": "Managing environments",
-    "section": "Python",
-    "text": "Python\nYou can use pip with venv (or a related tool) or conda (or a related tool) to create an environment and install specific versions of Python libraries.\nWe recommend using mamba (or micromamba) to install Python and create environments. This package manager is compatible with conda and can manage data science environments, including Python and other software. Anywhere you see conda, you can generally substitute it for mamba or micromamba.\nYou should export your environment into an environment.yml (or similar) file and track that using version control. This way, a collaborators can install the same software as you by running conda env create -f environment.yml.\nEven if you don’t want to use conda to install software, you can use it to install specific version of Python and then use pip to install Python libraries. This keeps everything in one place, and you don’t need to switch to using python -m venv.\n\n\n\n\n\n\nTips\n\n\n\n\nNever use a system-wide version of Python (such as on a Mac or Linux machine) as this will be a version used by the operating system. Always install your own version.\nNever install packages globally on your system. This could create conflicts with system libraries or other projects. Always create an environment.\nIf you do use pip, be aware that unlike conda it only checks for conflicts when you install all the libraries you are using at the same time. This is why it’s faster. For this reason, it’s a good idea to install additional libraries by editing your requirements.txt file and then reinstalling everything from a freshly-created (empty) environment each time."
-  },
-  {
-    "objectID": "tools/managing-environments.html#r",
-    "href": "tools/managing-environments.html#r",
-    "title": "Managing environments",
-    "section": "R",
-    "text": "R\nWe recommend creating reproducible environments using renv. See this talk by Kevin Ushey for an introduction.\nrenv uses renv::install() and renv::update() to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with renv will automatically mask).\nRStudio gives you the option of using renv when you create a new project.\n\n\n\n\n\n\nTip\n\n\n\nAlthough it is common practice, we recommend you avoid installing and updating packages globally using install.packages() and update.packages(), unless you are using renv.\nIf you use the global versions of packages, then all your projects will need to use the same versions of every library. If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses."
   },
   {
     "objectID": "tools/computing-resources.html",
@@ -280,25 +147,123 @@
     "text": "Footnotes\n\n\nThere is an unofficial OneDrive client for Linux that works under WSL. This can be used to selectively sync a WSL directory to OneDrive, for backup purposes.↩︎"
   },
   {
-    "objectID": "tools/web-development.html",
-    "href": "tools/web-development.html",
-    "title": "Web development",
+    "objectID": "tools/version-control.html",
+    "href": "tools/version-control.html",
+    "title": "Version control",
     "section": "",
-    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
+    "text": "Can you use cloud services?\n\n\n\nCheck whether you can use cloud services like GitHub and GitLab before you upload any code.\nThis includes whether the repo needs to be private (at least to begin with) and what the license terms need to be."
   },
   {
-    "objectID": "tools/web-development.html#static-websites",
-    "href": "tools/web-development.html#static-websites",
-    "title": "Web development",
-    "section": "",
-    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
+    "objectID": "tools/version-control.html#git",
+    "href": "tools/version-control.html#git",
+    "title": "Version control",
+    "section": "Git",
+    "text": "Git\nUse Git to version control to track and manage changes to code.\n\n\n\n\n\n\nTip\n\n\n\nFor collaborative data science work, we recommend committing frequently and following the principles of trunk-based development."
   },
   {
-    "objectID": "tools/web-development.html#interactive-websites",
-    "href": "tools/web-development.html#interactive-websites",
-    "title": "Web development",
-    "section": "Interactive websites",
-    "text": "Interactive websites\n\nFlask: a Python library for rapidly creating websites. Useful for data ingress/egress pages, for example when working with Internet of Things (IoT) devices.\nDjango: a more substantial batteries-included Python framework for developing entire websites.\n\n\n\n\n\n\n\nTips\n\n\n\n\nIf you’re creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it. It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through data protection impact assessment (DPIA) and penetration testing steps before your site can be used outside the University.\nFor more substantial websites, it is worth approaching Research IT at the project costing stage. They develop websites and apps professionally and use similar tools."
+    "objectID": "tools/version-control.html#github",
+    "href": "tools/version-control.html#github",
+    "title": "Version control",
+    "section": "GitHub",
+    "text": "GitHub\nThe JGI has an GitHub organisation that you can use to create collaborative repositories.\nYou can get access from one of the other data scientists in the team. Whilst at the University you can also access additional education benefits on GitHub.\n\n\n\n\n\n\nOrganisation or personal repo?\n\n\n\nUsing an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change the data scientist working on the project.\nFor smaller projects or Ask-JGI work, a repo under your personal profile is fine."
+  },
+  {
+    "objectID": "tools/version-control.html#data",
+    "href": "tools/version-control.html#data",
+    "title": "Version control",
+    "section": "Data",
+    "text": "Data\nYou can also version control data but this is more unusual (raw or source data is generally considered read-only).\nOne data version control tool is DVC."
+  },
+  {
+    "objectID": "tools/open-source.html",
+    "href": "tools/open-source.html",
+    "title": "Open source",
+    "section": "",
+    "text": "Can you release your code as open source?\n\n\n\nThe University is in the process of producing an Open Source Code policy. Once it is published, this page will be updated.\n\n\nMake all new source code open and reusable, and publish it under appropriate licences. Or if this is not possible, provide a convincing explanation of why this cannot be done for specific subsets of the source code.\n\nCode that could be open\nYou might be able to release the following:\n\nAnalysis scripts,\nSource code for compiled programs,\nConfiguration data for running or managing the program,\nDatabase schema,\nCode to compile, test or package the software,\nDocumentation to instruct others how to install, test and use the software.\n\n\n\nCode that should not be open\nYou must not release code that:\n\nContains personal or protected data (these should be stored separately),\nRelates to sensitive research that has not been published yet or could compromise the proper publication of research results,\nRelates to intellectual property that needs protecting (for example industrial collaborations or where there are plans to commercialise the research),\nCould compromise the security or integrity of research infrastructure (such as login details, descriptions security or anti-fraud systems, or unpublished policy).\n\n\n\nReferences\n\n(In preparation) Open Source Code policy, University of Bristol\nWhen code should be open or closed, GOV.UK\nBe open and use open source, GOV.UK\nChoosing an open-source licence, Software Sustainability Institute"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html",
+    "href": "tools/scientific-libraries.html",
+    "title": "Scientific libraries and tools",
+    "section": "",
+    "text": "The following libraries and tools are recommended:"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#python",
+    "href": "tools/scientific-libraries.html#python",
+    "title": "Scientific libraries and tools",
+    "section": "Python",
+    "text": "Python\n\nData analysis: numpy, pandas\nLarger-than-memory data: dask, polars\nAccelerating Python loops: numba\nSpecialist analysis: scipy\nStatistical modelling: statsmodels\nMachine learning: scikit-learn, keras, tensorflow, tensorboard, pytorch, yellowbrick\nNatural language processing: nltk, spacy\nGeospatial data: geopandas, shapely, rasterio, rioxarray, cartopy\nVisualisation: matplotlib, seaborn, altair, plotly, folium, geoplot\nDashboards: streamlit\nProbabilistic programming: pymc\nStorage of tabular data: Apache Parquet (via pyarrow and fastparquet), HDF5 (via hdf5 and h5py)\nWeb scraping: scrapy, beautifulsoup4, parsel, lxml\nWeb development: flask, django\nUI improvements: rich, tqdm\nNotebooks: jupyterlab (and nbdime for Git integration)\nTesting: pytest\nDocumentation: sphinx, mkdocs"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#r",
+    "href": "tools/scientific-libraries.html#r",
+    "title": "Scientific libraries and tools",
+    "section": "R",
+    "text": "R\n\nData analysis: tidyverse (including dplyr, tidyr), data.table, sf\nVisualisation: ggplot2\nStatistical modelling: glm (built-in), brms\nDashboards: shiny\nDatabase connections: odbc, dbplyr\nTesting: testthat\nDocumentation: pkgdown\nEnvironment management: renv"
+  },
+  {
+    "objectID": "tools/scientific-libraries.html#other-tools",
+    "href": "tools/scientific-libraries.html#other-tools",
+    "title": "Scientific libraries and tools",
+    "section": "Other tools",
+    "text": "Other tools\n\nMarkdown documents and websites: quarto, juypterbook\nOnline analytical processing using SQL: duckdb (with duckdb and jupysql for Python integration)\nCommand line json processing: jq\nMakefile-like pipelines: just"
+  },
+  {
+    "objectID": "style/code.html",
+    "href": "style/code.html",
+    "title": "Code style",
+    "section": "",
+    "text": "Follow the Duck Book guidance on:\nThis contains recommendations on (amongst other things) naming conventions, style and formatting."
+  },
+  {
+    "objectID": "style/code.html#reproducible-analysis-pipelines",
+    "href": "style/code.html#reproducible-analysis-pipelines",
+    "title": "Code style",
+    "section": "Reproducible analysis pipelines",
+    "text": "Reproducible analysis pipelines\nYou should structure your project so that:\n\nraw data is read-only,\nall your outputs are disposable,\n(if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.\n\n\n\n\n\n\n\nTip\n\n\n\nIn some situations it can be difficult to produce an easily reproducible pipeline. For example when using HPC, code often needs to be run across different systems and different environments. This is fine – just ensure there is enough documentation so that it is technically possible for someone to reproduce your work."
+  },
+  {
+    "objectID": "style/writing.html",
+    "href": "style/writing.html",
+    "title": "Writing style",
+    "section": "",
+    "text": "The University writing guidance contains:\n\nInclusive writing guide, including using short sentences, avoiding complicated language and defining acronyms the first time they’re used.\nHouse style guide, including the use of UK English, common terminology like dates and figures, punctuation and formatting."
+  },
+  {
+    "objectID": "style/documentation.html",
+    "href": "style/documentation.html",
+    "title": "Documentation style",
+    "section": "",
+    "text": "Your project should contain both:\n\nproject documentation: as a minimum a README.txt,\ncode documentation: including inline comments, function, class and module docstrings,\n\nThe documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.\nIt is helpful to think of documentation as falling into one of four modes:\n\ntutorials: learning-oriented lessons that take the reader by the hand through a series of steps to complete a project of some kind,\nhow-to guides: goal-oriented directions that take the reader through the steps required to solve a real-world problem,\nreference guides: information-oriented technical descriptions of the machinery and how to operate it,\nexplanation: understanding-oriented discussion that clarifies and illuminates a particular topic.\n\nThe is a great breakdown of these four areas on the Diátaxis website."
+  },
+  {
+    "objectID": "qa.html",
+    "href": "qa.html",
+    "title": "Quality assurance",
+    "section": "",
+    "text": "It should be easy to do the right thing, and easy to spot if we’ve done the wrong thing.\nWe do this by:"
+  },
+  {
+    "objectID": "qa.html#peer-review-process",
+    "href": "qa.html#peer-review-process",
+    "title": "Quality assurance",
+    "section": "Peer review process",
+    "text": "Peer review process\nWe suggest the following process for ongoing quality assurance during a project\n[TODO]"
+  },
+  {
+    "objectID": "qa.html#qa-activities",
+    "href": "qa.html#qa-activities",
+    "title": "Quality assurance",
+    "section": "QA activities",
+    "text": "QA activities\n\nPeer review,\nCode review,\nEthics discussions,\nPair programming,\nInternal workshops to discuss an approach,\nMaintain a 4:1 ratio – 80% working on projects and 20% assisting with QA on other projects."
+  },
+  {
+    "objectID": "style/visual.html",
+    "href": "style/visual.html",
+    "title": "Visual style",
+    "section": "",
+    "text": "The University brand guidelines contain information on:\n\nthe use of the University logo,\nthe University colour scheme,\nthe University fonts and typography.\n\nWe also have JGI-specific resources:\n\nWord and PowerPoint templates for letter, short reports, long reports and presentations. These can be found in the JGI SharePoint. Click the New menu and then choose a template from the list.\nQuarto template for HTML and Word documents produced from Markdown and code. This can be found in the JGI GitHub. It can be used by running quarto use template jgibristol/quarto-uob-jgi.\n\n\n\n\n\n\n\nTip\n\n\n\nWhen writing documents in Word, use the provided styles to avoid having to format everything manually."
   },
   {
     "objectID": "tools/programming-languages.html",
@@ -322,87 +287,122 @@
     "text": "Compiled languages\nSpecialised projects might have you writing code in a compiled language like C, C++ or Fortran. This is usually if you need to interact closely with the operating system or hardware or if execution time is more important than developer time.\nCommon languages include:\n\nRust: a fast and efficient language, aimed at producing reliable and safe code. It can be used to write low-level extensions for Python.\nFortran: often used for computationally intensive scientific computing. It supports arrays, matrices and complex numbers by default. It is simple and efficient and underpins libraries like SciPy. However because of its longevity, code you come across is often dated.\nC: a fast, portable and simple language. It is often used to write low-level extensions for Python. However, it can be error-prone. You might use it if you’re working on embedded systems like Arduino.\nC++: an extension of C that includes classes, templates and exceptions that you might be used to from higher-level languages. It can be very complicated and is often used for desktop applications, games and large-scale projects."
   },
   {
-    "objectID": "core-principles.html",
-    "href": "core-principles.html",
-    "title": "Core principles",
+    "objectID": "tools/web-development.html",
+    "href": "tools/web-development.html",
+    "title": "Web development",
     "section": "",
-    "text": "Smaller units of work are easier to communicate and help prevent you getting side-tracked.\nFor example:\n\nwhen planning a project, this might be dividing things into work packages and tasks,\nwhen working on a task, you could use the pomodoro technique,\nwhen coding, this might mean making regular commits, where each commit tries to do one thing."
+    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
   },
   {
-    "objectID": "core-principles.html#break-things-down-into-manageable-chunks",
-    "href": "core-principles.html#break-things-down-into-manageable-chunks",
-    "title": "Core principles",
+    "objectID": "tools/web-development.html#static-websites",
+    "href": "tools/web-development.html#static-websites",
+    "title": "Web development",
     "section": "",
-    "text": "Smaller units of work are easier to communicate and help prevent you getting side-tracked.\nFor example:\n\nwhen planning a project, this might be dividing things into work packages and tasks,\nwhen working on a task, you could use the pomodoro technique,\nwhen coding, this might mean making regular commits, where each commit tries to do one thing."
+    "text": "Useful for projects or interest groups, and can often be hosted for free on GitHub Pages.\nMany frameworks are available – we recommend:\n\nQuarto (used by this website),\nJupyter Book (used by the Our Handbook project),\nMkDocs for simple project or documentation website.\n\nThe native framework for GitHub Pages is Jekyll and another popular tool is Hugo.\nFor documentation websites, Sphinx is commonly used."
   },
   {
-    "objectID": "core-principles.html#keep-notes-and-documentation",
-    "href": "core-principles.html#keep-notes-and-documentation",
-    "title": "Core principles",
-    "section": "Keep notes and documentation",
-    "text": "Keep notes and documentation\nThis is useful not only to yourself in the future, but also to other members of the team if they take over or come back to something after a long period of time.\nWe recommend you keep both:\n\npersonal notes to record your thinking and what you do each day (so can go back to something, even if not making a decision at this point),\nproject documentation including relevant context, decisions made and the reasons for changes. These are part of our institutional, rather than individual, memory.\n\nProject documentation includes:\n\nREADME documents,\nchecklists,\nchangelogs,\ndecision logs,\nevent logs.\n\nIf you’ve completed a quality assurance-related activity, such as peer review, then also record that you’ve done it."
+    "objectID": "tools/web-development.html#interactive-websites",
+    "href": "tools/web-development.html#interactive-websites",
+    "title": "Web development",
+    "section": "Interactive websites",
+    "text": "Interactive websites\n\nFlask: a Python library for rapidly creating websites. Useful for data ingress/egress pages, for example when working with Internet of Things (IoT) devices.\nDjango: a more substantial batteries-included Python framework for developing entire websites.\n\n\n\n\n\n\n\nTips\n\n\n\n\nIf you’re creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it. It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through data protection impact assessment (DPIA) and penetration testing steps before your site can be used outside the University.\nFor more substantial websites, it is worth approaching Research IT at the project costing stage. They develop websites and apps professionally and use similar tools."
   },
   {
-    "objectID": "core-principles.html#use-the-appropriate-tool-for-the-job",
-    "href": "core-principles.html#use-the-appropriate-tool-for-the-job",
-    "title": "Core principles",
-    "section": "Use the appropriate tool for the job",
-    "text": "Use the appropriate tool for the job\nWe prefer tools that give immediate feedback.\nFor example:\n\nwhen writing code, this might be an IDE that checks your code for errors and gives visual feedback,\nfor documents, this might be an editor that allows real-time editing and has automatic spellchecking."
-  },
-  {
-    "objectID": "core-principles.html#check-things-meet-the-required-standard",
-    "href": "core-principles.html#check-things-meet-the-required-standard",
-    "title": "Core principles",
-    "section": "Check things meet the required standard",
-    "text": "Check things meet the required standard\nWe design-in regular checks within our standard process.\nFor example:\n\nwith code, this might be using automated tests to check the functionality is as intended,\nfor a data analysis pipeline, this could be checking some sample data produced a known output,\nfor the writing of a bid document, this might be regularly reviewing it against the scoring criteria.\n\nKeep a record of these steps."
-  },
-  {
-    "objectID": "core-principles.html#get-others-to-cross-check",
-    "href": "core-principles.html#get-others-to-cross-check",
-    "title": "Core principles",
-    "section": "Get others to cross-check",
-    "text": "Get others to cross-check\nOther people can provide a different perspective and can perform difference types of check.\nFor example:\n\nwhen coding, this might be undertaking code review or pair programming,\nat the start of a project, this could be a team meeting to discuss ethical or governance issues, or the overall approach you are taking.\n\nDon’t wait until the end of a project to do this! Again, keep a record of these steps."
-  },
-  {
-    "objectID": "style/visual.html",
-    "href": "style/visual.html",
-    "title": "Visual style",
+    "objectID": "tools/managing-environments.html",
+    "href": "tools/managing-environments.html",
+    "title": "Managing environments",
     "section": "",
-    "text": "The University brand guidelines contain information on:\n\nthe use of the University logo,\nthe University colour scheme,\nthe University fonts and typography.\n\nWe also have JGI-specific resources:\n\nWord and PowerPoint templates for letter, short reports, long reports and presentations. These can be found in the JGI SharePoint. Click the New menu and then choose a template from the list.\nQuarto template for HTML and Word documents produced from Markdown and code. This can be found in the JGI GitHub. It can be used by running quarto use template jgibristol/quarto-uob-jgi.\n\n\n\n\n\n\n\nTip\n\n\n\nWhen writing documents in Word, use the provided styles to avoid having to format everything manually."
+    "text": "We recommend keeping track of the exact versions of the software libraries you are using.\nGenerally this is done by creating a reproducible environment (also called a virtual environment).\nSome tools also allow you to use different versions of Python or R for different environments."
   },
   {
-    "objectID": "style/writing.html",
-    "href": "style/writing.html",
-    "title": "Writing style",
+    "objectID": "tools/managing-environments.html#python",
+    "href": "tools/managing-environments.html#python",
+    "title": "Managing environments",
+    "section": "Python",
+    "text": "Python\nYou can use pip with venv (or a related tool) or conda (or a related tool) to create an environment and install specific versions of Python libraries.\nWe recommend using mamba (or micromamba) to install Python and create environments. This package manager is compatible with conda and can manage data science environments, including Python and other software. Anywhere you see conda, you can generally substitute it for mamba or micromamba.\nYou should export your environment into an environment.yml (or similar) file and track that using version control. This way, a collaborators can install the same software as you by running conda env create -f environment.yml.\nEven if you don’t want to use conda to install software, you can use it to install specific version of Python and then use pip to install Python libraries. This keeps everything in one place, and you don’t need to switch to using python -m venv.\n\n\n\n\n\n\nTips\n\n\n\n\nNever use a system-wide version of Python (such as on a Mac or Linux machine) as this will be a version used by the operating system. Always install your own version.\nNever install packages globally on your system. This could create conflicts with system libraries or other projects. Always create an environment.\nIf you do use pip, be aware that unlike conda it only checks for conflicts when you install all the libraries you are using at the same time. This is why it’s faster. For this reason, it’s a good idea to install additional libraries by editing your requirements.txt file and then reinstalling everything from a freshly-created (empty) environment each time."
+  },
+  {
+    "objectID": "tools/managing-environments.html#r",
+    "href": "tools/managing-environments.html#r",
+    "title": "Managing environments",
+    "section": "R",
+    "text": "R\nWe recommend creating reproducible environments using renv. See this talk by Kevin Ushey for an introduction.\nrenv uses renv::install() and renv::update() to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with renv will automatically mask).\nRStudio gives you the option of using renv when you create a new project.\n\n\n\n\n\n\nTip\n\n\n\nAlthough it is common practice, we recommend you avoid installing and updating packages globally using install.packages() and update.packages(), unless you are using renv.\nIf you use the global versions of packages, then all your projects will need to use the same versions of every library. If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses."
+  },
+  {
+    "objectID": "tools/visualisation-and-communication.html",
+    "href": "tools/visualisation-and-communication.html",
+    "title": "Data visualisation and communication",
     "section": "",
-    "text": "The University writing guidance contains:\n\nInclusive writing guide, including using short sentences, avoiding complicated language and defining acronyms the first time they’re used.\nHouse style guide, including the use of UK English, common terminology like dates and figures, punctuation and formatting."
+    "text": "Related activities\n\n\n\nThe JGI runs:\n\nBristol DataViz Group: a group for individuals interested in data visualisation, where members can skill-share, discuss data visualisation topics and highlight great examples.\nBeauty of Data Competition: a competition to find the best data visualisations from University of Bristol research."
   },
   {
-    "objectID": "ways-of-working.html",
-    "href": "ways-of-working.html",
-    "title": "Ways of working",
+    "objectID": "tools/visualisation-and-communication.html#communication",
+    "href": "tools/visualisation-and-communication.html#communication",
+    "title": "Data visualisation and communication",
+    "section": "Communication",
+    "text": "Communication\nFor creating reproducible code-driven documents, we recommend:\n\nQuarto (formerly RMarkdown) for Python, R or even without code (for example, this website!)\nJupyterLab and Jupyter Notebooks for Python."
+  },
+  {
+    "objectID": "tools/visualisation-and-communication.html#dashboards",
+    "href": "tools/visualisation-and-communication.html#dashboards",
+    "title": "Data visualisation and communication",
+    "section": "Dashboards",
+    "text": "Dashboards\nFor rapidly building dashboards in Python or R, we recommend:\n\nStreamlit for Python,\nShiny for R."
+  },
+  {
+    "objectID": "tools/visualisation-and-communication.html#web-visualisations",
+    "href": "tools/visualisation-and-communication.html#web-visualisations",
+    "title": "Data visualisation and communication",
+    "section": "Web visualisations",
+    "text": "Web visualisations\nFor more complex data visualisations targetted at web pages, try the javascript library D3."
+  },
+  {
+    "objectID": "tools/visualisation-and-communication.html#no-code-tools",
+    "href": "tools/visualisation-and-communication.html#no-code-tools",
+    "title": "Data visualisation and communication",
+    "section": "No-code tools",
+    "text": "No-code tools\nThere are many tools that can be used for visualisation (and analysis) of data tat do not require code. Although these can be difficult to version control and may require additional software licenses, they can be much more accessible for collaborators. These might be a good fit for some projects.\n\nExcel: useful for quickly exploring data. Very flexible and generally accessible to all. But can introduce problems with some data types and easy to follow bad practices.\nPower BI: primary used for business analysis. Can connect to a variety of data sources inside the Microsoft 365 ecosystem. Can produce dashboards that can be shared securely within the University.\nTableau: similar to Power BI. Popular in industry. We often have a training session on Tableau during Data Week."
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "TODO",
     "section": "",
-    "text": "We use Teams as our general internal communication and chat app, when an email isn’t required.\nUse channels rather than chats where possible. These are more open and leave a record that can be searched by people in the future.\n\nGeneral channel – all the JGI team,\nData Science channel – accessible to all the team, but primarily for data science discussion,\nAsk-JGI channel – for disucssion with the Ask-JGI PhD data scientist team,\nand various other project channels.\n\n\n\nWe try to say “good morning” on the General channel and give an overview of what we will be working on that day and any challenges we are working on. This is an asynchronous replacement for a traditional morning ‘stand up’ meeting and is more inclusive of people working from home that day.\n\n\n\nSchedule meetings within the Data Science channel so that in-meeting chats also appear within the channel.\n\nBefore the meeting, use the channel to flag items for the agenda of the next meeting.\nDuring the meeting, use the in-meeting for minutes, taking it in turns (when one person is speaking, another person take notes of those actions)"
+    "text": "Methods of engagement - internal, external, how projects work\nFinish QA description\nOther JGI activities, such as Data Week, Ask-JGI, Data Ethics Club, Data Hazards, …"
   },
   {
-    "objectID": "ways-of-working.html#microsoft-teams",
-    "href": "ways-of-working.html#microsoft-teams",
-    "title": "Ways of working",
+    "objectID": "where.html",
+    "href": "where.html",
+    "title": "Where to find/store things",
     "section": "",
-    "text": "We use Teams as our general internal communication and chat app, when an email isn’t required.\nUse channels rather than chats where possible. These are more open and leave a record that can be searched by people in the future.\n\nGeneral channel – all the JGI team,\nData Science channel – accessible to all the team, but primarily for data science discussion,\nAsk-JGI channel – for disucssion with the Ask-JGI PhD data scientist team,\nand various other project channels.\n\n\n\nWe try to say “good morning” on the General channel and give an overview of what we will be working on that day and any challenges we are working on. This is an asynchronous replacement for a traditional morning ‘stand up’ meeting and is more inclusive of people working from home that day.\n\n\n\nSchedule meetings within the Data Science channel so that in-meeting chats also appear within the channel.\n\nBefore the meeting, use the channel to flag items for the agenda of the next meeting.\nDuring the meeting, use the in-meeting for minutes, taking it in turns (when one person is speaking, another person take notes of those actions)"
+    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
   },
   {
-    "objectID": "ways-of-working.html#outlook-email",
-    "href": "ways-of-working.html#outlook-email",
-    "title": "Ways of working",
-    "section": "Outlook email",
-    "text": "Outlook email\nAs well as your personal email inbox, we use the following shared mailboxes:\n\nthe Ask-JGI inbox,\nother shared mailboxes for dedicated tasks, for example the admin team uses jgi-admin@bristol.ac.uk."
+    "objectID": "where.html#sharepoint-and-onedrive",
+    "href": "where.html#sharepoint-and-onedrive",
+    "title": "Where to find/store things",
+    "section": "",
+    "text": "Use the JGI SharePoint for most documents.\nUse your University OneDrive for private documents and as a personal backup.\n\n\n\n\n\n\nTip\n\n\n\nMost of the time, you can open Office documents directly from SharePoint if you have internet access.\nFor offline access, you can add SharePoint shortcuts to your OneDrive meaning those folders get synced to your device. You can also sync entire SharePoint libraries to your device, but this is often too much for the OneDrive sync client to handle!\n\n\n\n\n\n\nFor data science projects that are not large or long-term enough to have their own dedicated folder or SharePoint team.\n\nEach project has its own folder, starting with the project number.\nEach folder should contain:\n\na layperson description of the project tht can be used on the website and in case studies,\ninformation on the funding for the project,\nnotes of important meetings, copies of presentations or changes to the project,\nany code, data or resources that are not saved elsewhere.\n\nProjects and project numbers are tracked in the Research Development spreadsheet.\n\n\n\n\nIncluding:\n\nAgendas and minutes from team meetings\nAnnual leave\nDesk booking\n\n\n\n\nFor documents shared within the Data Scientist channel on teams. (But not for projects!)\n\n\n\nFor documents shared with the Ask-JGI PhD data scientist team.\n\n\n\nAutomatically populated as emails come in to the Ask-JGI helpdesk: ask-jgi@bristol.ac.uk."
   },
   {
-    "objectID": "ways-of-working.html#outlook-calendar",
-    "href": "ways-of-working.html#outlook-calendar",
-    "title": "Ways of working",
-    "section": "Outlook calendar",
-    "text": "Outlook calendar\nKeep your personal calendar up-to-date as most people use the Scheduling Assistant within Outlook to find the best time for a meeting.\n\nHybrid working\nIf you often work between home and the office, it is helpful to create all-day events to say where you plan to be.\n\n\nDays away from the office (including leave)\nIf you’re away from the office then create an event in the team calendar (grp-Jean Golding Institute Team):\n\nSet the title to “XX annual leave” (where XX are your initials),\nMake it an all-day event and set ‘show as’ to ‘free’ (you can change this on your own calendar to ‘out of office’),\nInviting yourself and your line manager.\n\nYour manage can then accept this invite. The whole team can also see your leave on the team calendar."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the JGI Data Science Handbook",
+    "section": "",
+    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
+  },
+  {
+    "objectID": "index.html#purpose-of-the-handbook",
+    "href": "index.html#purpose-of-the-handbook",
+    "title": "Welcome to the JGI Data Science Handbook",
+    "section": "",
+    "text": "This handbook aims to:\n\nmake new members of the team familiar with how we work,\nbe a place for us to share important information, advice, best practices and useful tools,\nand commit us to producing quality outputs in a positive working environment.\n\nThere are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more. We give specific examples where we’re adding something that isn’t said elsewhere or where we’re suggesting a common approach or ‘house style’ relevant to the team."
+  },
+  {
+    "objectID": "index.html#further-reading",
+    "href": "index.html#further-reading",
+    "title": "Welcome to the JGI Data Science Handbook",
+    "section": "Further reading",
+    "text": "Further reading\nOne guide we like is the Government Analysis Function guidance on “Quality assurance of code for analysis and research” produced by the ONS, also known as the Duck Book.\nThe are also many templates for data science projects. One such template is the govcookiecutter and its associated blog post. Whilst we don’t specify a particular template, they all provide good inspiration."
   }
 ]

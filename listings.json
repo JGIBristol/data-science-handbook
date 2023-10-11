@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/style/index.html",
+    "items": [
+      "/style/code.html",
+      "/style/documentation.html",
+      "/style/writing.html",
+      "/style/visual.html"
+    ]
+  },
+  {
     "listing": "/tools/index.html",
     "items": [
       "/tools/computing-resources.html",
@@ -11,15 +20,6 @@
       "/tools/visualisation-and-communication.html",
       "/tools/web-development.html",
       "/tools/other.html"
-    ]
-  },
-  {
-    "listing": "/style/index.html",
-    "items": [
-      "/style/code.html",
-      "/style/documentation.html",
-      "/style/writing.html",
-      "/style/visual.html"
     ]
   }
 ]

@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/qa.html</loc>
-    <lastmod>2023-09-25T17:07:40.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/where.html</loc>
-    <lastmod>2023-09-25T17:07:39.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/style/documentation.html</loc>
-    <lastmod>2023-09-25T17:07:38.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/style/code.html</loc>
-    <lastmod>2023-09-25T17:07:38.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/thanks.html</loc>
-    <lastmod>2023-09-25T17:07:37.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/TODO.html</loc>
-    <lastmod>2023-09-25T17:07:36.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/version-control.html</loc>
-    <lastmod>2023-09-25T17:07:36.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/scientific-libraries.html</loc>
-    <lastmod>2023-09-25T17:07:35.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/visualisation-and-communication.html</loc>
-    <lastmod>2023-09-25T17:07:34.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/open-source.html</loc>
-    <lastmod>2023-09-25T17:07:33.557Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/index.html</loc>
-    <lastmod>2023-09-25T17:07:32.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/index.html</loc>
-    <lastmod>2023-09-25T17:07:32.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/other.html</loc>
-    <lastmod>2023-09-25T17:07:33.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/managing-environments.html</loc>
-    <lastmod>2023-09-25T17:07:33.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/computing-resources.html</loc>
-    <lastmod>2023-09-25T17:07:34.921Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/web-development.html</loc>
-    <lastmod>2023-09-25T17:07:35.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/tools/programming-languages.html</loc>
-    <lastmod>2023-09-25T17:07:36.493Z</lastmod>
+    <loc>https://github.com/JGIBristol/data-science-handbook/ways-of-working.html</loc>
+    <lastmod>2023-10-11T14:10:15.142Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/JGIBristol/data-science-handbook/core-principles.html</loc>
-    <lastmod>2023-09-25T17:07:37.241Z</lastmod>
+    <lastmod>2023-10-11T14:10:14.374Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/style/index.html</loc>
-    <lastmod>2023-09-25T17:07:37.885Z</lastmod>
+    <loc>https://github.com/JGIBristol/data-science-handbook/thanks.html</loc>
+    <lastmod>2023-10-11T14:10:13.574Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/style/visual.html</loc>
-    <lastmod>2023-09-25T17:07:38.601Z</lastmod>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/other.html</loc>
+    <lastmod>2023-10-11T14:10:12.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/computing-resources.html</loc>
+    <lastmod>2023-10-11T14:10:12.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/version-control.html</loc>
+    <lastmod>2023-10-11T14:10:11.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/open-source.html</loc>
+    <lastmod>2023-10-11T14:10:10.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/scientific-libraries.html</loc>
+    <lastmod>2023-10-11T14:10:09.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/style/code.html</loc>
+    <lastmod>2023-10-11T14:10:08.902Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/JGIBristol/data-science-handbook/style/writing.html</loc>
-    <lastmod>2023-09-25T17:07:39.265Z</lastmod>
+    <lastmod>2023-10-11T14:10:08.170Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JGIBristol/data-science-handbook/ways-of-working.html</loc>
-    <lastmod>2023-09-25T17:07:40.069Z</lastmod>
+    <loc>https://github.com/JGIBristol/data-science-handbook/style/documentation.html</loc>
+    <lastmod>2023-10-11T14:10:07.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/qa.html</loc>
+    <lastmod>2023-10-11T14:10:06.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/style/visual.html</loc>
+    <lastmod>2023-10-11T14:10:07.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/style/index.html</loc>
+    <lastmod>2023-10-11T14:10:08.530Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/programming-languages.html</loc>
+    <lastmod>2023-10-11T14:10:09.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/web-development.html</loc>
+    <lastmod>2023-10-11T14:10:10.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/managing-environments.html</loc>
+    <lastmod>2023-10-11T14:10:10.942Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/visualisation-and-communication.html</loc>
+    <lastmod>2023-10-11T14:10:11.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/tools/index.html</loc>
+    <lastmod>2023-10-11T14:10:12.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/TODO.html</loc>
+    <lastmod>2023-10-11T14:10:13.250Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/where.html</loc>
+    <lastmod>2023-10-11T14:10:13.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JGIBristol/data-science-handbook/index.html</loc>
+    <lastmod>2023-10-11T14:10:14.730Z</lastmod>
   </url>
 </urlset>
