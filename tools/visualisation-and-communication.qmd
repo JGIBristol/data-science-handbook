@@ -38,7 +38,7 @@ These might be a good fit for some projects.
 
 - [Excel](https://support.microsoft.com/en-gb/excel): useful for quickly exploring data.
   Very flexible and generally accessible to all.
-  But can introduce [problems with some data types](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates) and easy to follow bas practices.
+  But can introduce [problems with some data types](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates) and easy to follow bad practices.
 
 - [Power BI](https://powerbi.microsoft.com/): primary used for business analysis.
   Can connect to a variety of data sources inside the Microsoft 365 ecosystem.
