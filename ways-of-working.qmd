@@ -48,7 +48,7 @@ If you're away from the office then **create an event in the team calendar** (gr
 
 - Set the title to "XX annual leave" (where XX are your initials),
 - Make it an all-day event and set 'show as' to 'free' (you can change this on your own calendar to 'out of office'),
-- Inviting yourself and your line manager.
+- Invite yourself and your line manager.
 
-Your manage can then accept this invite.
+Your manager can then accept this invite.
 The whole team can also see your leave on the team calendar.
