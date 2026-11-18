@@ -6,7 +6,10 @@ website:
   navbar:
     background: primary
   sidebar:
-    contents: auto
+    contents:
+      - href: index.qmd
+        text: Home
+      - auto: "*"
     style: docked
     # collapse-level: 1
   repo-url: https://github.com/Bristol-REG/handbook
